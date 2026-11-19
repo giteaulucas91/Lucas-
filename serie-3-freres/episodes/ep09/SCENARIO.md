@@ -50,7 +50,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 sitting on a sofa at night with a laptop, very tired, a sleeping little girl with a cherry head in a pink pajama on his lap, cozy suburban house living room, lamp light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (exhausted)1.5, (tired droopy eyes, dark circles)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 on a sofa at night with a laptop, a sleeping little girl with a cherry head on his lap, cozy living room, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -66,7 +66,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 and (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 arguing in a modern kitchen at night, (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 wearing her gold heart locket, tense faces, cold light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (angry)1.5, (furrowed angry eyebrows, frown)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 arguing in a modern kitchen at night, cold light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -81,7 +81,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 lying awake in a dark bedroom at night, a phone vibrating inside a drawer of the nightstand on (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2's side, blue glow, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (worried)1.5, (raised eyebrows, anxious frown)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 lying awake in a dark bedroom, a phone glowing inside an open drawer, blue glow, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -96,7 +96,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a hand pulling an old black secret phone hidden under clothes in a drawer at night, blue phone light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a hand pulling an old black secret phone hidden under clothes in a drawer at night, blue phone light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -111,7 +111,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 alone in a dark bathroom at night scrolling a phone, his face lit by the blue screen, his eyes widening in shock, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (shocked)1.5, (wide eyes, mouth wide open)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 in a dark bathroom scrolling a phone, his face lit by the blue screen, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -126,7 +126,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a phone screen in the dark showing a long list of messages all sent to a contact named M, blue glow, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a phone screen in the dark showing a long list of messages all sent to a contact named M, blue glow, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -141,7 +141,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 crying silently with anger in a dark bathroom, glasses fogged, holding a phone, blue light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (crying)1.5, (tears on cheeks, mouth turned down)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 in a dark bathroom holding a phone, blue light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -157,7 +157,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 standing in a dark hallway doorway at night in a nightgown, looking worried and guilty, holding her gold locket, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 standing in a dark hallway doorway at night in a nightgown, holding her gold locket, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -172,7 +172,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a phone screen at night with a new message just arriving from contact M, notification light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a phone screen at night with a new message just arriving from contact M, notification light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -189,7 +189,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, extreme close-up of (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 face reflected in a bathroom mirror at night, cold determined eyes, dramatic blue light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, extreme close-up of (cold serious)1.5, (narrowed eyes, mouth closed, stern)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 reflected in a bathroom mirror at night, blue light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

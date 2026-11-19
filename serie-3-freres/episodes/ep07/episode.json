@@ -3,50 +3,164 @@
  "titre": "Le mariage",
  "question": "Que cache Clara à Enzo ?",
  "resume": "Année 5. Enzo épouse Clara. Lucas, en façade toujours riche, arrive en retard et ivre. Mathis offre un cadeau modeste qui émeut tout le monde. Pendant la première danse, Clara reçoit un message.",
- "intrigues_semees": ["Le message de « M. » (Margaux, S2)", "Lucas a perdu 80 % de sa fortune", "Kevin est revenu, comme si de rien n'était"],
+ "intrigues_semees": [
+  "Le message de « M. » (Margaux, S2)",
+  "Lucas a perdu 80 % de sa fortune",
+  "Kevin est revenu, comme si de rien n'était"
+ ],
  "cliffhanger": "« Tu ne lui as toujours rien dit ? Il est temps. — M. »",
  "scenes": [
-  {"id": 1, "lieu": "Jardin de mariage", "plan": "plan large",
-   "image": "a beautiful outdoor wedding ceremony in a garden with white flowers and string lights at golden hour, ENZO and CLARA in front of a flower arch, CLARA in a white wedding dress with a gold heart locket",
+  {
+   "id": 1,
+   "lieu": "Jardin de mariage",
+   "plan": "plan large",
+   "image": "{joie} ENZO and CLARA (in a white wedding dress)1.5 at a garden wedding ceremony in front of a white flower arch at golden hour",
    "musique": "espoir",
    "ecran": "ANNÉE 5",
-   "lignes": [["NARRATEUR", "Cinq ans après le pacte, Enzo a tout ce qu'il voulait."], ["ENZO", "Oui. Mille fois oui."]]},
-  {"id": 2, "lieu": "Allée du jardin", "plan": "plan moyen",
-   "image": "LUCAS arriving late at a garden wedding, drunk, stumbling, holding a bottle of champagne, his white blazer stained with red wine, guests staring",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Cinq ans après le pacte, Enzo a tout ce qu'il voulait."
+    ],
+    [
+     "ENZO",
+     "Oui. Mille fois oui."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Allée du jardin",
+   "plan": "plan moyen",
+   "image": "{joie} drunk LUCAS stumbling at a garden wedding, holding a champagne bottle, red wine stain on his white blazer, string lights",
    "musique": "tension",
-   "lignes": [["LUCAS", "J'ai raté le « oui » ? C'est pas grave, je paie la fête !"]]},
-  {"id": 3, "lieu": "Jardin", "plan": "plan à deux, tension",
-   "image": "ENZO grabbing LUCAS by the arm and talking to him angrily and quietly at a garden wedding party, string lights, evening",
+   "lignes": [
+    [
+     "LUCAS",
+     "J'ai raté le « oui » ? C'est pas grave, je paie la fête !"
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Jardin",
+   "plan": "plan à deux, tension",
+   "image": "{colere} ENZO at a garden wedding party in the evening, string lights",
    "musique": "tension",
-   "lignes": [["ENZO", "Tu paies avec quoi, Lucas ? Ta carte a été refusée au traiteur."], ["LUCAS", "Un petit souci passager. Kevin s'occupe de tout."]]},
-  {"id": 4, "lieu": "Jardin", "plan": "plan moyen",
-   "image": "KEVIN smiling at a garden wedding party, raising a glass of champagne toward the camera, string lights, evening, sly smile",
+   "lignes": [
+    [
+     "ENZO",
+     "Tu paies avec quoi, Lucas ? Ta carte a été refusée au traiteur."
+    ],
+    [
+     "LUCAS",
+     "Un petit souci passager. Kevin s'occupe de tout."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Jardin",
+   "plan": "plan moyen",
+   "image": "{sournois} KEVIN raising a glass of champagne at a garden wedding party, string lights, evening",
    "musique": "tension",
-   "lignes": [["NARRATEUR", "Kevin était revenu deux ans après la ruine. Avec des excuses. Et Lucas lui avait pardonné."]]},
-  {"id": 5, "lieu": "Table des cadeaux", "plan": "plan moyen",
-   "image": "MATHIS giving a small handmade wooden box to ENZO and CLARA at a wedding party, a table full of luxury gifts behind, emotional smiles, string lights",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Kevin était revenu deux ans après la ruine. Avec des excuses. Et Lucas lui avait pardonné."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Table des cadeaux",
+   "plan": "plan moyen",
+   "image": "{amour} MATHIS offering a small handmade wooden box, wedding party, string lights",
    "musique": "espoir",
-   "lignes": [["MATHIS", "C'est pas grand-chose. Je l'ai fabriqué moi-même."]]},
-  {"id": 6, "lieu": "Table des cadeaux", "plan": "insert",
+   "lignes": [
+    [
+     "MATHIS",
+     "C'est pas grand-chose. Je l'ai fabriqué moi-même."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Table des cadeaux",
+   "plan": "insert",
    "image": "close-up of an open handmade wooden box containing an old photo of three little boys laughing together, warm string lights",
    "musique": "espoir",
-   "lignes": [["MATHIS", "C'est la seule photo de nous trois. Avant… tout ça."], ["ENZO", "Mathis… merci."]]},
-  {"id": 7, "lieu": "Piste de danse", "plan": "plan large",
-   "image": "ENZO and CLARA dancing a slow romantic first dance under string lights at night, wedding guests around, magical atmosphere",
+   "lignes": [
+    [
+     "MATHIS",
+     "C'est la seule photo de nous trois. Avant… tout ça."
+    ],
+    [
+     "ENZO",
+     "Mathis… merci."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Piste de danse",
+   "plan": "plan large",
+   "image": "{amour} ENZO and CLARA (in a white wedding dress)1.5 dancing a slow romantic dance under string lights at night",
    "musique": "espoir",
-   "lignes": [["ENZO", "Promets-moi qu'on ne se mentira jamais."], ["CLARA", "Je… je te le promets."]]},
-  {"id": 8, "lieu": "Piste de danse", "plan": "insert",
+   "lignes": [
+    [
+     "ENZO",
+     "Promets-moi qu'on ne se mentira jamais."
+    ],
+    [
+     "CLARA",
+     "Je… je te le promets."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Piste de danse",
+   "plan": "insert",
    "image": "close-up of a smartphone vibrating in a hand during a wedding dance at night, screen lit with a message, string lights bokeh",
    "musique": "tension",
-   "lignes": [["NARRATEUR", "Au même moment, le téléphone de Clara a vibré."]]},
-  {"id": 9, "lieu": "Piste de danse", "plan": "gros plan sur Clara",
-   "image": "close-up of CLARA in a white wedding dress reading her phone over ENZO's shoulder while dancing, her face turning pale with fear, string lights",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Au même moment, le téléphone de Clara a vibré."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Piste de danse",
+   "plan": "gros plan sur Clara",
+   "image": "close-up of {peur} CLARA (in a white wedding dress)1.5 reading her phone, string lights at night",
    "musique": "tension",
-   "lignes": [["OMBRE", "Tu ne lui as toujours rien dit ? Il est temps."]]},
-  {"id": 10, "lieu": "Fond du jardin", "plan": "plan large",
-   "image": "OMBRE standing alone far away at the dark edge of a garden wedding party at night, watching, string lights far away",
+   "lignes": [
+    [
+     "OMBRE",
+     "Tu ne lui as toujours rien dit ? Il est temps."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Fond du jardin",
+   "plan": "plan large",
+   "image": "OMBRE standing alone at the dark edge of a garden at night, wedding lights far away",
    "musique": "mystere",
    "ecran": "PARTIE 8 →",
-   "lignes": [["NARRATEUR", "Le message était signé d'une seule lettre."], ["NARRATEUR", "M."]]}
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Le message était signé d'une seule lettre."
+    ],
+    [
+     "NARRATEUR",
+     "M."
+    ]
+   ]
+  }
  ]
 }

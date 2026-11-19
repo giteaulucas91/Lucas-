@@ -50,7 +50,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 sleeping curled up in the back seat of an old rusty small car parked in a dark empty parking lot at night, rain on the windows, cold blue light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (exhausted)1.5, (tired droopy eyes, dark circles)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 sleeping curled up in the back seat of an old small car at night, rain on the windows, cold blue light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -66,7 +66,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 standing next to an old small car with a broken window, glass shards on the ground, devastated face, holding an empty wallet, grey morning, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (crying)1.5, (tears on cheeks, mouth turned down)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 standing next to an old small car with a broken window, holding an empty wallet, grey morning, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -81,7 +81,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 standing at the back door of a busy restaurant kitchen, hopeful face, talking to an angry chef in white uniform, evening, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (determined)1.5, (focused eyes, confident)1.3, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 at the back door of a busy restaurant kitchen in the evening, talking to a chef in white uniform, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -97,7 +97,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 washing a huge pile of dirty dishes in a restaurant kitchen at night, exhausted but determined, steam, harsh fluorescent light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (exhausted)1.5, (tired droopy eyes, dark circles)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 washing a huge pile of dirty dishes in a restaurant kitchen at night, steam, fluorescent light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -112,7 +112,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 at night behind a restaurant putting good fresh unsold food from a trash bin into boxes, street lamp light, wet street, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (sad)1.5, (mouth turned down, sad eyes)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 behind a restaurant at night putting fresh unsold food into cardboard boxes, street lamp, wet street, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -128,7 +128,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, cheerful, (wearing a mustard yellow sweater and denim overalls)1.2 surprised, looking at (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 who is holding boxes of food, in a narrow street behind a restaurant at night, street lamp, wet ground, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (shocked)1.5, (wide eyes, mouth wide open)1.4, (anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3 pointing her finger in a narrow street at night, street lamp, wet ground, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -144,7 +144,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 and (anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, cheerful, (wearing a mustard yellow sweater and denim overalls)1.2 sitting on a public bench at night sharing food from boxes, laughing, city lights bokeh, warm atmosphere, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 on the left and (anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3 on the right sitting on a bench at night sharing food from boxes, city lights bokeh, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -160,7 +160,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, cheerful, (wearing a mustard yellow sweater and denim overalls)1.2 with a sudden excited idea face, big shining eyes, holding her smartphone, city lights at night, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (happy)1.4, (big smile)1.3, (anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3 with an excited idea, holding her smartphone, city lights at night, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -175,7 +175,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic strawberry character, his whole head is a giant realistic red strawberry with green leaves on top)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, elderly man with white mustache and small round gold glasses, (wearing a dark burgundy three-piece suit, holding a black cane)1.2 sitting at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp, mysterious serious face, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (suspicious)1.5, (one raised eyebrow, squinting eyes)1.4, (old anthropomorphic strawberry character with a giant red strawberry head, white mustache, round gold glasses, wearing a burgundy three-piece suit)1.3 sitting at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -191,7 +191,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a printed photo on a wooden desk showing two young people sitting on a bench at night, a hand with a gold signet ring holding it, desk lamp light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a printed photo on a wooden desk showing two young people sitting on a bench at night, a hand with a gold signet ring holding it, desk lamp light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

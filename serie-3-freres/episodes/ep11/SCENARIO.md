@@ -44,7 +44,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -59,7 +59,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -74,7 +74,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -89,7 +89,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -104,7 +104,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -119,7 +119,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -134,7 +134,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -149,7 +149,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -164,7 +164,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -180,7 +180,7 @@ Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, , cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

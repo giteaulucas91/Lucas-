@@ -3,50 +3,155 @@
  "titre": "L'Ombre",
  "question": "Qui est la femme en noir ?",
  "resume": "Fin de la première année. Le même jour, chacun des trois frères croise sans le savoir la même femme en noir. Lucas croit avoir rêvé ; Mathis, lui, la suit.",
- "intrigues_semees": ["L'Ombre surveille les 3 frères (S1)", "Le carnet « Expérience Verger »"],
+ "intrigues_semees": [
+  "L'Ombre surveille les 3 frères (S1)",
+  "Le carnet « Expérience Verger »"
+ ],
  "cliffhanger": "L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo, cachée.",
  "scenes": [
-  {"id": 1, "lieu": "Rue sombre, nuit", "plan": "plan large",
-   "image": "OMBRE standing still under a street lamp in a dark wet street at night, fog, mysterious silhouette, cinematic",
+  {
+   "id": 1,
+   "lieu": "Rue sombre, nuit",
+   "plan": "plan large",
+   "image": "OMBRE standing still under a street lamp in a dark wet foggy street at night, cinematic",
    "musique": "mystere",
    "ecran": "FIN DE L'ANNÉE 1",
-   "lignes": [["NARRATEUR", "Le même jour, les trois frères ont croisé la même personne."]]},
-  {"id": 2, "lieu": "Casino de Monaco", "plan": "plan moyen",
-   "image": "LUCAS at a roulette table in a luxurious golden casino, throwing a big pile of chips, OMBRE standing in the background watching him",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Le même jour, les trois frères ont croisé la même personne."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Casino de Monaco",
+   "plan": "plan moyen",
+   "image": "{joie} LUCAS at a roulette table in a luxurious golden casino, throwing a big pile of chips",
    "musique": "luxe",
-   "lignes": [["LUCAS", "Tout sur le rouge !"], ["NARRATEUR", "À Monaco, Lucas venait de perdre deux cent mille euros en une heure."]]},
-  {"id": 3, "lieu": "Casino", "plan": "gros plan Lucas",
-   "image": "close-up of LUCAS turning his head, frowning, as if he saw someone in a crowded luxurious casino, golden light",
+   "lignes": [
+    [
+     "LUCAS",
+     "Tout sur le rouge !"
+    ],
+    [
+     "NARRATEUR",
+     "À Monaco, Lucas venait de perdre deux cent mille euros en une heure."
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Casino",
+   "plan": "gros plan Lucas",
+   "image": "close-up of {suspect} LUCAS turning his head in a crowded luxurious casino, golden light",
    "musique": "tension",
-   "lignes": [["LUCAS", "Kevin… la femme en noir, là-bas. Elle me fixe depuis une heure."], ["KEVIN", "Quelle femme ? Il n'y a personne, frérot."]]},
-  {"id": 4, "lieu": "Hall d'une tour de bureaux", "plan": "plan moyen",
-   "image": "ENZO walking in a modern office building lobby with his briefcase, OMBRE sitting in the background on a sofa pretending to read a newspaper",
+   "lignes": [
+    [
+     "LUCAS",
+     "Kevin… la femme en noir, là-bas. Elle me fixe depuis une heure."
+    ],
+    [
+     "KEVIN",
+     "Quelle femme ? Il n'y a personne, frérot."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Hall d'une tour de bureaux",
+   "plan": "plan moyen",
+   "image": "{epuise} ENZO walking with his briefcase in a modern office building lobby, a woman in a black hat reading a newspaper in the background",
    "musique": "mystere",
-   "lignes": [["NARRATEUR", "À Paris, Enzo n'a rien remarqué. Il ne remarque jamais rien en dehors de son travail."]]},
-  {"id": 5, "lieu": "Rue, devant le restaurant", "plan": "plan moyen",
-   "image": "MATHIS in the street at night carrying boxes of food, looking suspiciously at a black car parked across the street with tinted windows",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "À Paris, Enzo n'a rien remarqué. Il ne remarque jamais rien en dehors de son travail."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Rue, devant le restaurant",
+   "plan": "plan moyen",
+   "image": "{suspect} MATHIS in the street at night carrying boxes, looking at a black car with tinted windows",
    "musique": "tension",
-   "lignes": [["MATHIS", "Cette voiture… elle était déjà là hier. Et avant-hier."]]},
-  {"id": 6, "lieu": "Rue, nuit", "plan": "plan large, poursuite",
-   "image": "MATHIS running in a dark wet street at night chasing OMBRE who walks quickly away, rain, street lamps, cinematic motion",
+   "lignes": [
+    [
+     "MATHIS",
+     "Cette voiture… elle était déjà là hier. Et avant-hier."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Rue, nuit",
+   "plan": "plan large, poursuite",
+   "image": "{determine} MATHIS running in a dark wet street at night in the rain, cinematic motion",
    "musique": "tension",
-   "lignes": [["MATHIS", "Hé ! Madame ! Attendez !"]]},
-  {"id": 7, "lieu": "Ruelle, nuit", "plan": "plan moyen",
-   "image": "MATHIS alone in an empty dark alley at night in the rain, looking around confused, a black notebook lying on the wet ground at his feet",
+   "lignes": [
+    [
+     "MATHIS",
+     "Hé ! Madame ! Attendez !"
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Ruelle, nuit",
+   "plan": "plan moyen",
+   "image": "{choc} MATHIS in an empty dark alley at night in the rain, a black notebook lying on the wet ground",
    "musique": "mystere",
-   "lignes": [["NARRATEUR", "Elle a disparu. Mais elle a laissé tomber quelque chose."]]},
-  {"id": 8, "lieu": "Ruelle, nuit", "plan": "insert",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Elle a disparu. Mais elle a laissé tomber quelque chose."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Ruelle, nuit",
+   "plan": "insert",
    "image": "close-up of a black leather notebook open on wet ground at night, handwritten pages with three photos clipped on them, red ink, rain drops",
    "musique": "tension",
-   "lignes": [["MATHIS", "« Expérience Verger »… Sujet numéro trois : Mathis."]]},
-  {"id": 9, "lieu": "Voiture noire, nuit", "plan": "plan moyen",
-   "image": "OMBRE sitting in the back of a black car at night, holding three photos and a red marker, face in shadow, rain on windows",
+   "lignes": [
+    [
+     "MATHIS",
+     "« Expérience Verger »… Sujet numéro trois : Mathis."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Voiture noire, nuit",
+   "plan": "plan moyen",
+   "image": "OMBRE sitting in the back of a black car at night holding photos, rain on the windows",
    "musique": "mystere",
-   "lignes": [["OMBRE", "Le petit dernier est plus malin que prévu."]]},
-  {"id": 10, "lieu": "Voiture noire, nuit", "plan": "insert",
+   "lignes": [
+    [
+     "OMBRE",
+     "Le petit dernier est plus malin que prévu."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Voiture noire, nuit",
+   "plan": "insert",
    "image": "close-up of black gloved hands drawing a red cross on three photos of young men inside a dark car, then a fourth photo face down, dramatic light",
    "musique": "tension",
    "ecran": "PARTIE 6 →",
-   "lignes": [["OMBRE", "Année un, terminée."], ["OMBRE", "Et toi… ton tour viendra."]]}
+   "lignes": [
+    [
+     "OMBRE",
+     "Année un, terminée."
+    ],
+    [
+     "OMBRE",
+     "Et toi… ton tour viendra."
+    ]
+   ]
+  }
  ]
 }

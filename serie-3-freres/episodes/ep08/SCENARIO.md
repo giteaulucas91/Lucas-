@@ -52,7 +52,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 and (anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, cheerful, (wearing a mustard yellow sweater and denim overalls)1.2 standing in a big warehouse full of food delivery crates and green vans, worried faces, looking at a laptop, cold light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (worried)1.5, (raised eyebrows, anxious frown)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 and (anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3 in a big warehouse full of food crates and green delivery vans, looking at a laptop, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -67,7 +67,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 with tired red eyes, head in his hands, sitting on a delivery crate in a warehouse at night, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (crying)1.5, (tears on cheeks, mouth turned down)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 sitting on a crate in a warehouse at night, head in his hands, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -83,7 +83,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a laptop screen in a dark warehouse showing a bank transfer notification with a huge amount, glowing light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a laptop screen in a dark warehouse showing a bank transfer notification with a huge amount, glowing light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -98,7 +98,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 and (anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, cheerful, (wearing a mustard yellow sweater and denim overalls)1.2 hugging and jumping with joy in a warehouse full of delivery crates, employees cheering in the background, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 and (anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3 hugging and jumping with joy in a warehouse, employees cheering, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -113,7 +113,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 in a small messy rented studio apartment, his white blazer stained, eating instant noodles, unpaid bills on the table, grey light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (sad)1.5, (mouth turned down, sad eyes)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 eating instant noodles in a small messy studio apartment, stain on his white blazer, unpaid bills, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -129,7 +129,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 putting a thick pile of documents and a pen in front of (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 on a small table in a messy studio apartment, friendly fake smile, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (evil sly)1.5, (narrowed eyes, sneaky smirk)1.4, (anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3 putting a thick pile of documents and a pen on a small table in a messy studio apartment, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -144,7 +144,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a document page with small print and a signature, the words cession and domaine visible, a hand quickly turning the page, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a document page with small print and a signature, the words cession and domaine visible, a hand quickly turning the page, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -159,7 +159,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 alone at night in a small office reading official documents under a desk lamp, frowning, suspicious, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (suspicious)1.5, (one raised eyebrow, squinting eyes)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 alone at night reading official documents under a desk lamp in a small office, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -174,7 +174,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of an official document with a golden strawberry logo and the words VERGER HOLDING printed at the top, desk lamp light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of an official document with a golden strawberry logo and the words VERGER HOLDING printed at the top, desk lamp light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -191,7 +191,7 @@ La société qui a sauvé Mathis s'appelle Verger Holding.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, extreme close-up of (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 with shocked angry eyes in the dark lit by a desk lamp, dramatic, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, extreme close-up of (angry)1.5, (furrowed angry eyebrows, frown)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 in the dark, lit by a desk lamp, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

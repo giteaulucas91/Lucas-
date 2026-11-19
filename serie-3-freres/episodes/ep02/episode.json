@@ -3,55 +3,173 @@
  "titre": "La vie de rêve",
  "question": "Qui est vraiment Kevin ?",
  "resume": "Lucas dépense sans compter à Monaco. Dans une soirée, il rencontre Kevin, un ananas charmeur qui devient vite son meilleur ami. Trop vite.",
- "intrigues_semees": ["Kevin connaît le prénom du père (S4)", "Kevin au téléphone (trahison)"],
+ "intrigues_semees": [
+  "Kevin connaît le prénom du père (S4)",
+  "Kevin au téléphone (trahison)"
+ ],
  "cliffhanger": "Kevin au téléphone : « Il ne se doute de rien. Comme son père. »",
  "scenes": [
-  {"id": 1, "lieu": "Concession", "plan": "plan large",
-   "image": "LUCAS throwing stacks of euro banknotes in the air in a luxury car showroom, a shiny yellow Lamborghini behind him, huge cocky smile",
+  {
+   "id": 1,
+   "lieu": "Concession",
+   "plan": "plan large",
+   "image": "{joie} LUCAS throwing euro banknotes in the air in a luxury car showroom, a shiny yellow Lamborghini behind him",
    "musique": "luxe",
-   "lignes": [["LUCAS", "Je la prends. En jaune. Et je paie cash."]]},
-  {"id": 2, "lieu": "Monaco, port", "plan": "plan large",
-   "image": "LUCAS standing on the deck of a huge white luxury yacht in Monaco harbor at sunset, arms wide open, champagne bottle in hand",
+   "lignes": [
+    [
+     "LUCAS",
+     "Je la prends. En jaune. Et je paie cash."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Monaco, port",
+   "plan": "plan large",
+   "image": "{joie} LUCAS on the deck of a huge white luxury yacht in Monaco harbor at sunset, arms wide open, champagne bottle in hand",
    "musique": "luxe",
    "ecran": "SEMAINE 1",
-   "lignes": [["NARRATEUR", "Une semaine. Il lui a fallu une semaine pour dépenser son premier million."]]},
-  {"id": 3, "lieu": "Boîte de nuit VIP", "plan": "plan moyen",
-   "image": "LUCAS sitting in a VIP booth of a luxury nightclub with purple neon lights, champagne bottles with sparklers, partying, crowd in background",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Une semaine. Il lui a fallu une semaine pour dépenser son premier million."
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Boîte de nuit VIP",
+   "plan": "plan moyen",
+   "image": "{joie} LUCAS in a VIP booth of a luxury nightclub with purple neon lights, champagne bottles with sparklers",
    "musique": "luxe",
-   "lignes": [["LUCAS", "Ce soir, tout le monde boit sur moi !"]]},
-  {"id": 4, "lieu": "Boîte de nuit VIP", "plan": "plan moyen, entrée de Kevin",
-   "image": "KEVIN walking confidently into a VIP booth of a luxury nightclub with purple neon lights, charming smile, holding two glasses of champagne",
+   "lignes": [
+    [
+     "LUCAS",
+     "Ce soir, tout le monde boit sur moi !"
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Boîte de nuit VIP",
+   "plan": "plan moyen, entrée de Kevin",
+   "image": "{sournois} KEVIN walking into a luxury nightclub with purple neon lights, holding two glasses of champagne",
    "musique": "tension",
-   "lignes": [["KEVIN", "Joli bateau dehors. Il est à toi ?"], ["LUCAS", "Tout est à moi, mon pote."]]},
-  {"id": 5, "lieu": "Boîte de nuit VIP", "plan": "plan à deux",
-   "image": "LUCAS and KEVIN laughing together and clinking champagne glasses in a VIP booth of a luxury nightclub, purple neon light",
+   "lignes": [
+    [
+     "KEVIN",
+     "Joli bateau dehors. Il est à toi ?"
+    ],
+    [
+     "LUCAS",
+     "Tout est à moi, mon pote."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Boîte de nuit VIP",
+   "plan": "plan à deux",
+   "image": "{joie} LUCAS on the left and KEVIN on the right laughing together and clinking champagne glasses, luxury nightclub, purple neon light",
    "musique": "luxe",
-   "lignes": [["KEVIN", "Moi c'est Kevin. Je fais des affaires. Des grosses affaires."], ["LUCAS", "Alors on va bien s'entendre."]]},
-  {"id": 6, "lieu": "Penthouse de Lucas", "plan": "plan moyen",
-   "image": "LUCAS and KEVIN playing video games on a giant sofa in a luxury penthouse with panoramic view of Monaco at night, pizza boxes and gold decorations",
+   "lignes": [
+    [
+     "KEVIN",
+     "Moi c'est Kevin. Je fais des affaires. Des grosses affaires."
+    ],
+    [
+     "LUCAS",
+     "Alors on va bien s'entendre."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Penthouse de Lucas",
+   "plan": "plan moyen",
+   "image": "{joie} LUCAS playing video games on a giant sofa in a luxury penthouse with panoramic view of Monaco at night",
    "musique": "luxe",
    "ecran": "3 MOIS PLUS TARD",
-   "lignes": [["LUCAS", "Tu sais quoi ? T'es plus un frère pour moi que mes vrais frères."]]},
-  {"id": 7, "lieu": "Penthouse", "plan": "gros plan sur Kevin",
-   "image": "close-up of KEVIN with a strange calculating smile, looking sideways, luxury penthouse at night background, dramatic shadows",
+   "lignes": [
+    [
+     "LUCAS",
+     "Tu sais quoi ? T'es plus un frère pour moi que mes vrais frères."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Penthouse",
+   "plan": "gros plan sur Kevin",
+   "image": "close-up of {sournois} KEVIN looking sideways, luxury penthouse at night, dramatic shadows",
    "musique": "tension",
-   "lignes": [["KEVIN", "Et ton père, Augustin… il pense quoi de tout ça ?"]]},
-  {"id": 8, "lieu": "Penthouse", "plan": "gros plan sur Lucas, intrigué",
-   "image": "close-up of LUCAS frowning and confused, holding a game controller, luxury penthouse at night background",
+   "lignes": [
+    [
+     "KEVIN",
+     "Et ton père, Augustin… il pense quoi de tout ça ?"
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Penthouse",
+   "plan": "gros plan sur Lucas, intrigué",
+   "image": "close-up of {suspect} LUCAS holding a game controller, luxury penthouse at night",
    "musique": "tension",
-   "lignes": [["LUCAS", "Attends… je t'ai jamais dit son prénom."], ["KEVIN", "Tout le monde connaît Augustin Verger, voyons."]]},
-  {"id": 9, "lieu": "Penthouse, chambre de Lucas", "plan": "plan large",
-   "image": "LUCAS sleeping on a huge luxury bed, gold sheets, empty champagne bottles on the floor, night city lights through the window",
+   "lignes": [
+    [
+     "LUCAS",
+     "Attends… je t'ai jamais dit son prénom."
+    ],
+    [
+     "KEVIN",
+     "Tout le monde connaît Augustin Verger, voyons."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Penthouse, chambre de Lucas",
+   "plan": "plan large",
+   "image": "LUCAS sleeping on a huge luxury bed with gold sheets, empty champagne bottles on the floor, night city lights",
    "musique": "mystere",
-   "lignes": [["NARRATEUR", "Cette nuit-là, Lucas a dormi comme un roi."]]},
-  {"id": 10, "lieu": "Terrasse du penthouse, nuit", "plan": "plan moyen",
-   "image": "KEVIN alone on a dark penthouse terrace at night whispering into his phone, serious menacing face, Monaco lights behind him, cold blue light",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Cette nuit-là, Lucas a dormi comme un roi."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Terrasse du penthouse, nuit",
+   "plan": "plan moyen",
+   "image": "{sournois} KEVIN alone on a dark penthouse terrace at night whispering into his phone, Monaco lights behind, cold blue light",
    "musique": "tension",
-   "lignes": [["KEVIN", "Oui. Il me fait déjà confiance."], ["KEVIN", "Il ne se doute de rien… exactement comme son père."]]},
-  {"id": 11, "lieu": "Terrasse du penthouse, nuit", "plan": "gros plan",
-   "image": "extreme close-up of KEVIN eyes with a cold evil smile in the dark, cinematic blue light",
+   "lignes": [
+    [
+     "KEVIN",
+     "Oui. Il me fait déjà confiance."
+    ],
+    [
+     "KEVIN",
+     "Il ne se doute de rien… exactement comme son père."
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "lieu": "Terrasse du penthouse, nuit",
+   "plan": "gros plan",
+   "image": "extreme close-up of {sournois} KEVIN in the dark, cinematic blue light",
    "musique": "tension",
    "ecran": "PARTIE 3 →",
-   "lignes": [["KEVIN", "Bientôt, tout ce qui est à lui… sera à moi."]]}
+   "lignes": [
+    [
+     "KEVIN",
+     "Bientôt, tout ce qui est à lui… sera à moi."
+    ]
+   ]
+  }
  ]
 }

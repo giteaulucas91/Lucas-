@@ -3,50 +3,155 @@
  "titre": "Le médaillon",
  "question": "Depuis combien de temps Clara ment-elle ?",
  "resume": "Année 9. Enzo, épuisé par le travail, a une petite fille avec Clara. Une nuit, il découvre le second téléphone de sa femme : neuf ans de photos, de rapports et de messages adressés à « M. ».",
- "intrigues_semees": ["Clara faisait des rapports (S2)", "Les retrouvailles approchent"],
+ "intrigues_semees": [
+  "Clara faisait des rapports (S2)",
+  "Les retrouvailles approchent"
+ ],
  "cliffhanger": "Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »",
  "scenes": [
-  {"id": 1, "lieu": "Maison d'Enzo, salon", "plan": "plan large",
-   "image": "ENZO sitting on a sofa at night with a laptop, very tired, a sleeping little girl with a cherry head in a pink pajama on his lap, cozy suburban house living room, lamp light",
+  {
+   "id": 1,
+   "lieu": "Maison d'Enzo, salon",
+   "plan": "plan large",
+   "image": "{epuise} ENZO on a sofa at night with a laptop, a sleeping little girl with a cherry head on his lap, cozy living room",
    "musique": "triste",
    "ecran": "ANNÉE 9",
-   "lignes": [["NARRATEUR", "Neuf ans. Une maison, une fille, une promotion. Et plus une seule nuit de sommeil."]]},
-  {"id": 2, "lieu": "Cuisine", "plan": "plan à deux",
-   "image": "ENZO and CLARA arguing in a modern kitchen at night, CLARA wearing her gold heart locket, tense faces, cold light",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Neuf ans. Une maison, une fille, une promotion. Et plus une seule nuit de sommeil."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Cuisine",
+   "plan": "plan à deux",
+   "image": "{colere} CLARA arguing in a modern kitchen at night, cold light",
    "musique": "tension",
-   "lignes": [["CLARA", "Tu es marié à ton travail, Enzo. Pas à moi."], ["ENZO", "Je fais tout ça pour nous !"]]},
-  {"id": 3, "lieu": "Chambre, nuit", "plan": "plan moyen",
-   "image": "ENZO lying awake in a dark bedroom at night, a phone vibrating inside a drawer of the nightstand on CLARA's side, blue glow",
+   "lignes": [
+    [
+     "CLARA",
+     "Tu es marié à ton travail, Enzo. Pas à moi."
+    ],
+    [
+     "ENZO",
+     "Je fais tout ça pour nous !"
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Chambre, nuit",
+   "plan": "plan moyen",
+   "image": "{inquiet} ENZO lying awake in a dark bedroom, a phone glowing inside an open drawer, blue glow",
    "musique": "mystere",
-   "lignes": [["NARRATEUR", "Cette nuit-là, un téléphone a vibré. Ce n'était pas le sien. Ni celui de Clara."]]},
-  {"id": 4, "lieu": "Chambre, nuit", "plan": "insert",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Cette nuit-là, un téléphone a vibré. Ce n'était pas le sien. Ni celui de Clara."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Chambre, nuit",
+   "plan": "insert",
    "image": "close-up of a hand pulling an old black secret phone hidden under clothes in a drawer at night, blue phone light",
    "musique": "tension",
-   "lignes": [["ENZO", "Un deuxième téléphone ?"]]},
-  {"id": 5, "lieu": "Salle de bains, nuit", "plan": "gros plan Enzo",
-   "image": "ENZO alone in a dark bathroom at night scrolling a phone, his face lit by the blue screen, his eyes widening in shock",
+   "lignes": [
+    [
+     "ENZO",
+     "Un deuxième téléphone ?"
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Salle de bains, nuit",
+   "plan": "gros plan Enzo",
+   "image": "{choc} ENZO in a dark bathroom scrolling a phone, his face lit by the blue screen",
    "musique": "tension",
-   "lignes": [["NARRATEUR", "Des centaines de photos de lui. Au bureau. Dans la rue. Avec sa fille."]]},
-  {"id": 6, "lieu": "Salle de bains, nuit", "plan": "insert",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Des centaines de photos de lui. Au bureau. Dans la rue. Avec sa fille."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Salle de bains, nuit",
+   "plan": "insert",
    "image": "close-up of a phone screen in the dark showing a long list of messages all sent to a contact named M, blue glow",
    "musique": "tension",
-   "lignes": [["ENZO", "« Rapport semaine 412. Le sujet est épuisé. Il ne se doute de rien. »"]]},
-  {"id": 7, "lieu": "Salle de bains, nuit", "plan": "gros plan",
-   "image": "close-up of ENZO crying silently with anger in a dark bathroom, glasses fogged, holding a phone, blue light",
+   "lignes": [
+    [
+     "ENZO",
+     "« Rapport semaine 412. Le sujet est épuisé. Il ne se doute de rien. »"
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Salle de bains, nuit",
+   "plan": "gros plan",
+   "image": "close-up of {pleurs} ENZO in a dark bathroom holding a phone, blue light",
    "musique": "triste",
-   "lignes": [["ENZO", "Quatre cent douze semaines… Notre rencontre. Le café renversé. Tout était faux."]]},
-  {"id": 8, "lieu": "Couloir, nuit", "plan": "plan moyen",
-   "image": "CLARA standing in a dark hallway doorway at night in a nightgown, looking worried and guilty, holding her gold locket",
+   "lignes": [
+    [
+     "ENZO",
+     "Quatre cent douze semaines… Notre rencontre. Le café renversé. Tout était faux."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Couloir, nuit",
+   "plan": "plan moyen",
+   "image": "{peur} CLARA standing in a dark hallway doorway at night in a nightgown, holding her gold locket",
    "musique": "tension",
-   "lignes": [["CLARA", "Enzo ? Tu ne dors pas ?"], ["ENZO", "Si. Je vais me recoucher."]]},
-  {"id": 9, "lieu": "Salle de bains", "plan": "insert",
+   "lignes": [
+    [
+     "CLARA",
+     "Enzo ? Tu ne dors pas ?"
+    ],
+    [
+     "ENZO",
+     "Si. Je vais me recoucher."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Salle de bains",
+   "plan": "insert",
    "image": "close-up of a phone screen at night with a new message just arriving from contact M, notification light",
    "musique": "tension",
-   "lignes": [["NARRATEUR", "Un dernier message est arrivé à quatre heures du matin."]]},
-  {"id": 10, "lieu": "Salle de bains", "plan": "gros plan final",
-   "image": "extreme close-up of ENZO face reflected in a bathroom mirror at night, cold determined eyes, dramatic blue light",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Un dernier message est arrivé à quatre heures du matin."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Salle de bains",
+   "plan": "gros plan final",
+   "image": "extreme close-up of {froid} ENZO reflected in a bathroom mirror at night, blue light",
    "musique": "tension",
    "ecran": "PARTIE 10 →",
-   "lignes": [["OMBRE", "Demain, ils seront tous réunis. Prépare-toi."], ["ENZO", "Demain… les dix ans."]]}
+   "lignes": [
+    [
+     "OMBRE",
+     "Demain, ils seront tous réunis. Prépare-toi."
+    ],
+    [
+     "ENZO",
+     "Demain… les dix ans."
+    ]
+   ]
+  }
  ]
 }

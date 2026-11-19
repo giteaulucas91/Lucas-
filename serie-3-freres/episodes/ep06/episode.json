@@ -3,51 +3,164 @@
  "titre": "Le premier piège",
  "question": "Combien reste-t-il à Lucas ?",
  "resume": "Année 3. Kevin convainc Lucas d'investir 4 millions dans un projet de villas « garanti ». Pendant ce temps, Mathis et Sofia lancent leur application Récolte dans un garage.",
- "intrigues_semees": ["Kevin organise la ruine de Lucas", "Récolte est née"],
+ "intrigues_semees": [
+  "Kevin organise la ruine de Lucas",
+  "Récolte est née"
+ ],
  "cliffhanger": "Le banquier : « Monsieur… il faut que vous vous asseyiez. »",
  "scenes": [
-  {"id": 1, "lieu": "Penthouse, jour", "plan": "plan à deux",
-   "image": "KEVIN showing a glossy architectural model of luxury villas to LUCAS on a table in a luxury penthouse, Monaco view, sunny",
+  {
+   "id": 1,
+   "lieu": "Penthouse, jour",
+   "plan": "plan à deux",
+   "image": "{sournois} KEVIN showing a glossy architectural model of luxury villas, luxury penthouse with Monaco view, sunny",
    "musique": "luxe",
    "ecran": "ANNÉE 3",
-   "lignes": [["KEVIN", "Douze villas sur la côte. Tu mets quatre millions, tu en récupères vingt."]]},
-  {"id": 2, "lieu": "Penthouse", "plan": "gros plan Lucas",
-   "image": "close-up of LUCAS hesitating, rubbing his chin, greedy dreaming eyes, luxury penthouse background",
+   "lignes": [
+    [
+     "KEVIN",
+     "Douze villas sur la côte. Tu mets quatre millions, tu en récupères vingt."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Penthouse",
+   "plan": "gros plan Lucas",
+   "image": "close-up of {inquiet} LUCAS rubbing his chin, luxury penthouse",
    "musique": "tension",
-   "lignes": [["LUCAS", "Quatre millions… c'est presque tout ce qu'il me reste."], ["KEVIN", "Justement. Tu veux arriver devant ton père avec des miettes ?"]]},
-  {"id": 3, "lieu": "Penthouse", "plan": "insert",
+   "lignes": [
+    [
+     "LUCAS",
+     "Quatre millions… c'est presque tout ce qu'il me reste."
+    ],
+    [
+     "KEVIN",
+     "Justement. Tu veux arriver devant ton père avec des miettes ?"
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Penthouse",
+   "plan": "insert",
    "image": "close-up of a hand with a gold pen signing a contract on a glass table, a gold watch on the wrist, luxury penthouse",
    "musique": "tension",
-   "lignes": [["LUCAS", "Allez. On signe. Pour les frères."], ["KEVIN", "Pour les frères."]]},
-  {"id": 4, "lieu": "Garage encombré", "plan": "plan large",
-   "image": "MATHIS and SOFIA working on old laptops in a messy small garage turned into an office, cardboard boxes, a single light bulb, night, motivated",
+   "lignes": [
+    [
+     "LUCAS",
+     "Allez. On signe. Pour les frères."
+    ],
+    [
+     "KEVIN",
+     "Pour les frères."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Garage encombré",
+   "plan": "plan large",
+   "image": "{determine} MATHIS and SOFIA working on old laptops in a messy small garage office at night, a single light bulb",
    "musique": "espoir",
-   "lignes": [["NARRATEUR", "Pendant ce temps, dans un garage de vingt mètres carrés…"], ["SOFIA", "L'application est prête. Il lui faut juste un nom."]]},
-  {"id": 5, "lieu": "Garage", "plan": "plan à deux",
-   "image": "MATHIS smiling and pointing at a laptop screen showing a green app logo, SOFIA cheering next to him in a small garage office at night",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Pendant ce temps, dans un garage de vingt mètres carrés…"
+    ],
+    [
+     "SOFIA",
+     "L'application est prête. Il lui faut juste un nom."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Garage",
+   "plan": "plan à deux",
+   "image": "{joie} SOFIA cheering in a small garage office at night, laptop with a green app logo",
    "musique": "espoir",
-   "lignes": [["MATHIS", "Récolte. Parce qu'on récolte ce que les autres jettent."]]},
-  {"id": 6, "lieu": "Rue, matin", "plan": "plan moyen",
-   "image": "MATHIS on an old bicycle with a big delivery bag on his back riding through a city street in the early morning, determined, sunrise",
+   "lignes": [
+    [
+     "MATHIS",
+     "Récolte. Parce qu'on récolte ce que les autres jettent."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Rue, matin",
+   "plan": "plan moyen",
+   "image": "{determine} MATHIS riding an old bicycle with a big delivery bag in a city street at sunrise",
    "musique": "espoir",
    "ecran": "6 MOIS PLUS TARD",
-   "lignes": [["NARRATEUR", "Trois cents restaurants. Deux mille repas sauvés par jour. Et toujours zéro euro de salaire."]]},
-  {"id": 7, "lieu": "Chantier vide", "plan": "plan large",
-   "image": "LUCAS standing alone on an empty abandoned muddy construction site with a broken sign of luxury villas, shocked, grey cloudy sky",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Trois cents restaurants. Deux mille repas sauvés par jour. Et toujours zéro euro de salaire."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Chantier vide",
+   "plan": "plan large",
+   "image": "{choc} LUCAS alone on an empty abandoned muddy construction site, grey cloudy sky",
    "musique": "tension",
-   "lignes": [["LUCAS", "Où sont les villas ? Il n'y a… rien."]]},
-  {"id": 8, "lieu": "Chantier vide", "plan": "gros plan, téléphone",
-   "image": "close-up of LUCAS holding his phone to his ear, panicked face, on an abandoned construction site, grey sky",
+   "lignes": [
+    [
+     "LUCAS",
+     "Où sont les villas ? Il n'y a… rien."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Chantier vide",
+   "plan": "gros plan, téléphone",
+   "image": "close-up of {peur} LUCAS holding his phone to his ear, abandoned construction site, grey sky",
    "musique": "tension",
-   "lignes": [["LUCAS", "Kevin, décroche… Kevin !"], ["NARRATEUR", "Messagerie. Encore. Et encore."]]},
-  {"id": 9, "lieu": "Banque privée", "plan": "plan à deux",
-   "image": "LUCAS sitting nervously in front of a serious banker in a dark suit behind a marble desk in a luxurious private bank office",
+   "lignes": [
+    [
+     "LUCAS",
+     "Kevin, décroche… Kevin !"
+    ],
+    [
+     "NARRATEUR",
+     "Messagerie. Encore. Et encore."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Banque privée",
+   "plan": "plan à deux",
+   "image": "{inquiet} LUCAS sitting in front of a marble desk in a luxurious private bank office",
    "musique": "tension",
-   "lignes": [["LUCAS", "Combien il me reste ? Exactement."]]},
-  {"id": 10, "lieu": "Banque privée", "plan": "gros plan Lucas",
-   "image": "extreme close-up of LUCAS face with wide terrified eyes, sweat, dramatic cold light, private bank office",
+   "lignes": [
+    [
+     "LUCAS",
+     "Combien il me reste ? Exactement."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Banque privée",
+   "plan": "gros plan Lucas",
+   "image": "extreme close-up of {choc} LUCAS sweating, dramatic cold light",
    "musique": "tension",
    "ecran": "PARTIE 7 →",
-   "lignes": [["NARRATEUR", "Le banquier a tourné l'écran vers lui."], ["LUCAS", "C'est… c'est impossible."]]}
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Le banquier a tourné l'écran vers lui."
+    ],
+    [
+     "LUCAS",
+     "C'est… c'est impossible."
+    ]
+   ]
+  }
  ]
 }

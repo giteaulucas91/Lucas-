@@ -51,7 +51,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 throwing stacks of euro banknotes in the air in a luxury car showroom, a shiny yellow Lamborghini behind him, huge cocky smile, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 throwing euro banknotes in the air in a luxury car showroom, a shiny yellow Lamborghini behind him, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -67,7 +67,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 standing on the deck of a huge white luxury yacht in Monaco harbor at sunset, arms wide open, champagne bottle in hand, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 on the deck of a huge white luxury yacht in Monaco harbor at sunset, arms wide open, champagne bottle in hand, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -82,7 +82,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 sitting in a VIP booth of a luxury nightclub with purple neon lights, champagne bottles with sparklers, partying, crowd in background, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 in a VIP booth of a luxury nightclub with purple neon lights, champagne bottles with sparklers, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -98,7 +98,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 walking confidently into a VIP booth of a luxury nightclub with purple neon lights, charming smile, holding two glasses of champagne, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (evil sly)1.5, (narrowed eyes, sneaky smirk)1.4, (anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3 walking into a luxury nightclub with purple neon lights, holding two glasses of champagne, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -114,7 +114,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 and (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 laughing together and clinking champagne glasses in a VIP booth of a luxury nightclub, purple neon light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 on the left and (anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3 on the right laughing together and clinking champagne glasses, luxury nightclub, purple neon light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -130,7 +130,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 and (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 playing video games on a giant sofa in a luxury penthouse with panoramic view of Monaco at night, pizza boxes and gold decorations, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 playing video games on a giant sofa in a luxury penthouse with panoramic view of Monaco at night, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -145,7 +145,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 with a strange calculating smile, looking sideways, luxury penthouse at night background, dramatic shadows, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (evil sly)1.5, (narrowed eyes, sneaky smirk)1.4, (anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3 looking sideways, luxury penthouse at night, dramatic shadows, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -161,7 +161,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 frowning and confused, holding a game controller, luxury penthouse at night background, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (suspicious)1.5, (one raised eyebrow, squinting eyes)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 holding a game controller, luxury penthouse at night, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -176,7 +176,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 sleeping on a huge luxury bed, gold sheets, empty champagne bottles on the floor, night city lights through the window, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 sleeping on a huge luxury bed with gold sheets, empty champagne bottles on the floor, night city lights, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -192,7 +192,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 alone on a dark penthouse terrace at night whispering into his phone, serious menacing face, Monaco lights behind him, cold blue light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (evil sly)1.5, (narrowed eyes, sneaky smirk)1.4, (anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3 alone on a dark penthouse terrace at night whispering into his phone, Monaco lights behind, cold blue light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -208,7 +208,7 @@ Kevin au téléphone : « Il ne se doute de rien. Comme son père. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, extreme close-up of (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 eyes with a cold evil smile in the dark, cinematic blue light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, extreme close-up of (evil sly)1.5, (narrowed eyes, sneaky smirk)1.4, (anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3 in the dark, cinematic blue light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

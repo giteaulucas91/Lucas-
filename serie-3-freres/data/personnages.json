@@ -1,15 +1,15 @@
 {
- "_doc": "Source de vérité visuelle et vocale. Les clés (PERE, LUCAS...) sont utilisées dans les prompts des scènes : elles sont remplacées automatiquement par 'visuel'. Ne jamais modifier un visuel en cours de saison (cohérence).",
- "style": "cinematic lighting, highly detailed, expressive cartoon faces, vertical composition",
+ "_doc": "Source de vérité visuelle et vocale. Dans le champ 'image' des scènes : écrire les CLÉS (PERE, LUCAS...) qui sont remplacées par 'visuel', et les étiquettes d'émotion {colere} {choc} {triste} {pleurs} {sournois} {inquiet} {joie} {froid} {peur} {determine} {fier} {amour} {suspect} {epuise} juste AVANT la clé. Un personnage principal par image. Pondération Compel : (texte)1.3. Ne jamais modifier un visuel en cours de saison.",
+ "style": "cinematic lighting, highly detailed, vertical composition",
  "personnages": {
   "PERE": {
    "nom": "Augustin Verger",
    "fruit": "fraise",
    "couleur": "#C8102E",
-   "visuel": "(anthropomorphic strawberry character, his whole head is a giant realistic red strawberry with green leaves on top)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, elderly man with white mustache and small round gold glasses, (wearing a dark burgundy three-piece suit, holding a black cane)1.2",
+   "visuel": "(old anthropomorphic strawberry character with a giant red strawberry head, white mustache, round gold glasses, wearing a burgundy three-piece suit)1.3",
    "voix": {
     "edge": "fr-FR-HenriNeural",
-    "rate": "-12%",
+    "rate": "-5%",
     "pitch": "-14Hz"
    }
   },
@@ -17,7 +17,7 @@
    "nom": "Lucas Verger",
    "fruit": "banane",
    "couleur": "#FFD100",
-   "visuel": "(anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2",
+   "visuel": "(anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3",
    "voix": {
     "edge": "fr-FR-RemyMultilingualNeural",
     "rate": "+6%",
@@ -28,7 +28,7 @@
    "nom": "Enzo Verger",
    "fruit": "pomme verte",
    "couleur": "#7AC143",
-   "visuel": "(anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2",
+   "visuel": "(anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3",
    "voix": {
     "edge": "fr-CH-FabriceNeural",
     "rate": "+0%",
@@ -39,7 +39,7 @@
    "nom": "Mathis Verger",
    "fruit": "orange",
    "couleur": "#FF8200",
-   "visuel": "(anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, (wearing a grey hoodie and blue jeans)1.2",
+   "visuel": "(anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3",
    "voix": {
     "edge": "en-US-BrianMultilingualNeural",
     "rate": "+2%",
@@ -50,7 +50,7 @@
    "nom": "Clara",
    "fruit": "cerise",
    "couleur": "#8B0A1A",
-   "visuel": "(anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2",
+   "visuel": "(anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3",
    "voix": {
     "edge": "fr-FR-DeniseNeural",
     "rate": "+2%",
@@ -61,7 +61,7 @@
    "nom": "Kevin",
    "fruit": "ananas",
    "couleur": "#C9A227",
-   "visuel": "(anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man, (wearing a purple floral shirt and gold aviator sunglasses)1.2",
+   "visuel": "(anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3",
    "voix": {
     "edge": "fr-BE-GerardNeural",
     "rate": "+6%",
@@ -72,7 +72,7 @@
    "nom": "Sofia",
    "fruit": "framboise",
    "couleur": "#E30B5C",
-   "visuel": "(anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, (wearing a mustard yellow sweater and denim overalls)1.2",
+   "visuel": "(anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3",
    "voix": {
     "edge": "fr-FR-VivienneMultilingualNeural",
     "rate": "+4%",
@@ -83,7 +83,7 @@
    "nom": "La femme en noir (identité secrète : Margaux Prunier)",
    "fruit": "prune",
    "couleur": "#4B0F3D",
-   "visuel": "(anthropomorphic plum character, her whole head is a giant realistic dark purple plum)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, mysterious woman with black sunglasses, (wearing a long black trench coat and a black wide-brim hat)1.2",
+   "visuel": "(mysterious anthropomorphic plum woman with a giant dark purple plum head, black sunglasses, wearing a long black trench coat and a black wide-brim hat)1.3",
    "voix": {
     "edge": "fr-CA-SylvieNeural",
     "rate": "-8%",
@@ -99,5 +99,21 @@
    }
   }
  },
- "prefixe": "(3D Pixar animated movie still)1.2"
+ "prefixe": "(3D Pixar animated movie still)1.2",
+ "emotions": {
+  "colere": "(angry)1.5, (furrowed angry eyebrows, frown)1.4,",
+  "choc": "(shocked)1.5, (wide eyes, mouth wide open)1.4,",
+  "triste": "(sad)1.5, (mouth turned down, sad eyes)1.4,",
+  "pleurs": "(crying)1.5, (tears on cheeks, mouth turned down)1.4,",
+  "sournois": "(evil sly)1.5, (narrowed eyes, sneaky smirk)1.4,",
+  "inquiet": "(worried)1.5, (raised eyebrows, anxious frown)1.4,",
+  "joie": "(happy)1.4, (big smile)1.3,",
+  "froid": "(cold serious)1.5, (narrowed eyes, mouth closed, stern)1.4,",
+  "peur": "(scared)1.5, (wide fearful eyes, tense mouth)1.4,",
+  "determine": "(determined)1.5, (focused eyes, confident)1.3,",
+  "fier": "(proud arrogant)1.5, (smug smirk, chin up)1.4,",
+  "amour": "(in love)1.4, (soft tender smile)1.3,",
+  "suspect": "(suspicious)1.5, (one raised eyebrow, squinting eyes)1.4,",
+  "epuise": "(exhausted)1.5, (tired droopy eyes, dark circles)1.4,"
+ }
 }

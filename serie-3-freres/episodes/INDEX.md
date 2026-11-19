@@ -2,7 +2,7 @@
 
 | Ép. | Titre | Question | Durée est. | Cliffhanger |
 |---|---|---|---|---|
-| 1 | [Le Pacte](ep01/SCENARIO.md) | Lequel des trois frères va réussir ? | 64 s | Une femme en noir photographie les trois frères qui quittent le Domaine. |
+| 1 | [Le Pacte](ep01/SCENARIO.md) | Lequel des trois frères va réussir ? | 59 s | Une femme en noir photographie les trois frères qui quittent le Domaine. |
 | 2 | [La vie de rêve](ep02/SCENARIO.md) | Qui est vraiment Kevin ? | 58 s | Kevin au téléphone : « Il ne se doute de rien. Comme son père. » |
 | 3 | [500 euros](ep03/SCENARIO.md) | Comment survivre avec 500 euros ? | 52 s | La photo de Mathis et Sofia arrive sur le bureau d'Augustin. |
 | 4 | [La vie parfaite](ep04/SCENARIO.md) | Clara est-elle vraiment tombée là par hasard ? | 48 s | Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre. |

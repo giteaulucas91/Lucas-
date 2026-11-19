@@ -3,50 +3,159 @@
  "titre": "L'investisseur fantôme",
  "question": "Qui a sauvé Mathis ?",
  "resume": "Année 7. Récolte est au bord de la faillite après le refus de toutes les banques. Un investisseur anonyme sauve tout à la dernière minute. Pendant ce temps, Lucas, ruiné, signe des papiers que Kevin lui présente sans les lire.",
- "intrigues_semees": ["Verger Holding a sauvé Mathis (S5 : l'expérience est truquée)", "Lucas signe la cession de ses biens (S4)"],
+ "intrigues_semees": [
+  "Verger Holding a sauvé Mathis (S5 : l'expérience est truquée)",
+  "Lucas signe la cession de ses biens (S4)"
+ ],
  "cliffhanger": "La société qui a sauvé Mathis s'appelle Verger Holding.",
  "scenes": [
-  {"id": 1, "lieu": "Entrepôt de Récolte", "plan": "plan large",
-   "image": "MATHIS and SOFIA standing in a big warehouse full of food delivery crates and green vans, worried faces, looking at a laptop, cold light",
+  {
+   "id": 1,
+   "lieu": "Entrepôt de Récolte",
+   "plan": "plan large",
+   "image": "{inquiet} MATHIS and SOFIA in a big warehouse full of food crates and green delivery vans, looking at a laptop",
    "musique": "tension",
    "ecran": "ANNÉE 7",
-   "lignes": [["SOFIA", "Huit banques. Huit refus. On ne peut plus payer les salaires."], ["MATHIS", "Soixante employés, Sofia. Soixante familles."]]},
-  {"id": 2, "lieu": "Entrepôt", "plan": "gros plan Mathis",
-   "image": "close-up of MATHIS with tired red eyes, head in his hands, sitting on a delivery crate in a warehouse at night",
+   "lignes": [
+    [
+     "SOFIA",
+     "Huit banques. Huit refus. On ne peut plus payer les salaires."
+    ],
+    [
+     "MATHIS",
+     "Soixante employés, Sofia. Soixante familles."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Entrepôt",
+   "plan": "gros plan Mathis",
+   "image": "close-up of {pleurs} MATHIS sitting on a crate in a warehouse at night, head in his hands",
    "musique": "triste",
-   "lignes": [["MATHIS", "Peut-être que papa avait raison. Peut-être que je ne suis pas fait pour réussir."]]},
-  {"id": 3, "lieu": "Entrepôt", "plan": "insert",
+   "lignes": [
+    [
+     "MATHIS",
+     "Peut-être que papa avait raison. Peut-être que je ne suis pas fait pour réussir."
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Entrepôt",
+   "plan": "insert",
    "image": "close-up of a laptop screen in a dark warehouse showing a bank transfer notification with a huge amount, glowing light",
    "musique": "mystere",
-   "lignes": [["SOFIA", "Mathis… viens voir. Vite."], ["SOFIA", "Cinq millions. Un investisseur anonyme. Sans condition."]]},
-  {"id": 4, "lieu": "Entrepôt", "plan": "plan à deux, joie",
-   "image": "MATHIS and SOFIA hugging and jumping with joy in a warehouse full of delivery crates, employees cheering in the background",
+   "lignes": [
+    [
+     "SOFIA",
+     "Mathis… viens voir. Vite."
+    ],
+    [
+     "SOFIA",
+     "Cinq millions. Un investisseur anonyme. Sans condition."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Entrepôt",
+   "plan": "plan à deux, joie",
+   "image": "{joie} MATHIS and SOFIA hugging and jumping with joy in a warehouse, employees cheering",
    "musique": "espoir",
-   "lignes": [["MATHIS", "On est sauvés ! On est sauvés !"]]},
-  {"id": 5, "lieu": "Studio miteux de Lucas", "plan": "plan moyen",
-   "image": "LUCAS in a small messy rented studio apartment, his white blazer stained, eating instant noodles, unpaid bills on the table, grey light",
+   "lignes": [
+    [
+     "MATHIS",
+     "On est sauvés ! On est sauvés !"
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Studio miteux de Lucas",
+   "plan": "plan moyen",
+   "image": "{triste} LUCAS eating instant noodles in a small messy studio apartment, stain on his white blazer, unpaid bills",
    "musique": "triste",
-   "lignes": [["NARRATEUR", "À Monaco, Lucas a vendu le yacht, puis le penthouse. Il ne lui reste que la Lamborghini."]]},
-  {"id": 6, "lieu": "Studio de Lucas", "plan": "plan à deux",
-   "image": "KEVIN putting a thick pile of documents and a pen in front of LUCAS on a small table in a messy studio apartment, friendly fake smile",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "À Monaco, Lucas a vendu le yacht, puis le penthouse. Il ne lui reste que la Lamborghini."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Studio de Lucas",
+   "plan": "plan à deux",
+   "image": "{sournois} KEVIN putting a thick pile of documents and a pen on a small table in a messy studio apartment",
    "musique": "tension",
-   "lignes": [["KEVIN", "Signe là, là et là. C'est pour restructurer tes dettes."], ["LUCAS", "Je te fais confiance, frérot."]]},
-  {"id": 7, "lieu": "Studio de Lucas", "plan": "insert",
+   "lignes": [
+    [
+     "KEVIN",
+     "Signe là, là et là. C'est pour restructurer tes dettes."
+    ],
+    [
+     "LUCAS",
+     "Je te fais confiance, frérot."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Studio de Lucas",
+   "plan": "insert",
    "image": "close-up of a document page with small print and a signature, the words cession and domaine visible, a hand quickly turning the page",
    "musique": "tension",
-   "lignes": [["NARRATEUR", "Lucas n'a pas lu la page quatorze. Il aurait dû."]]},
-  {"id": 8, "lieu": "Bureau de Mathis", "plan": "plan moyen",
-   "image": "MATHIS alone at night in a small office reading official documents under a desk lamp, frowning, suspicious",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Lucas n'a pas lu la page quatorze. Il aurait dû."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Bureau de Mathis",
+   "plan": "plan moyen",
+   "image": "{suspect} MATHIS alone at night reading official documents under a desk lamp in a small office",
    "musique": "mystere",
-   "lignes": [["MATHIS", "Société écran… puis une autre… puis une autre…"]]},
-  {"id": 9, "lieu": "Bureau de Mathis", "plan": "insert",
+   "lignes": [
+    [
+     "MATHIS",
+     "Société écran… puis une autre… puis une autre…"
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Bureau de Mathis",
+   "plan": "insert",
    "image": "close-up of an official document with a golden strawberry logo and the words VERGER HOLDING printed at the top, desk lamp light",
    "musique": "tension",
-   "lignes": [["NARRATEUR", "Tout en bas de la chaîne, un nom."]]},
-  {"id": 10, "lieu": "Bureau de Mathis", "plan": "gros plan",
-   "image": "extreme close-up of MATHIS with shocked angry eyes in the dark lit by a desk lamp, dramatic",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Tout en bas de la chaîne, un nom."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Bureau de Mathis",
+   "plan": "gros plan",
+   "image": "extreme close-up of {colere} MATHIS in the dark, lit by a desk lamp",
    "musique": "tension",
    "ecran": "PARTIE 9 →",
-   "lignes": [["MATHIS", "Verger Holding… Papa ?"], ["MATHIS", "Tu nous as dit : aucune aide. Qu'est-ce que tu nous caches ?"]]}
+   "lignes": [
+    [
+     "MATHIS",
+     "Verger Holding… Papa ?"
+    ],
+    [
+     "MATHIS",
+     "Tu nous as dit : aucune aide. Qu'est-ce que tu nous caches ?"
+    ]
+   ]
+  }
  ]
 }

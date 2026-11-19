@@ -3,58 +3,186 @@
  "titre": "Les retrouvailles",
  "question": "Qui est la quatrième personne ?",
  "resume": "Dix ans jour pour jour. Lucas arrive en Lamborghini, mais ruiné. Enzo arrive avec Clara et sa fille, sans un regard pour sa femme. Mathis arrive à pied, à la tête d'une entreprise de 40 millions. Le père leur annonce qu'ils ne savent rien… et qu'ils auraient dû être quatre.",
- "intrigues_semees": ["Le 4ᵉ enfant annoncé (S4)", "La toux du père s'aggrave (S6)", "L'Ombre entre au Domaine"],
+ "intrigues_semees": [
+  "Le 4ᵉ enfant annoncé (S4)",
+  "La toux du père s'aggrave (S6)",
+  "L'Ombre entre au Domaine"
+ ],
  "cliffhanger": "« Vous auriez dû être quatre. » Les portes s'ouvrent : l'Ombre entre.",
  "scenes": [
-  {"id": 1, "lieu": "Allée du Domaine, jour", "plan": "plan large",
+  {
+   "id": 1,
+   "lieu": "Allée du Domaine, jour",
+   "plan": "plan large",
    "image": "a shiny yellow Lamborghini arriving fast in front of a gigantic luxury french chateau mansion, gravel flying, sunny day, cinematic wide shot",
    "musique": "luxe",
    "ecran": "10 ANS PLUS TARD",
-   "lignes": [["NARRATEUR", "Dix ans. Jour pour jour."]]},
-  {"id": 2, "lieu": "Allée du Domaine", "plan": "plan moyen",
-   "image": "LUCAS stepping out of a yellow Lamborghini in front of a luxury mansion, wearing sunglasses, forced confident smile, his white blazer with a small wine stain",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Dix ans. Jour pour jour."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Allée du Domaine",
+   "plan": "plan moyen",
+   "image": "{fier} LUCAS stepping out of a yellow Lamborghini in front of a luxury mansion, small wine stain on his white blazer",
    "musique": "luxe",
-   "lignes": [["LUCAS", "Le roi est de retour !"], ["NARRATEUR", "La voiture est louée. Il a quarante euros sur son compte."]]},
-  {"id": 3, "lieu": "Allée du Domaine", "plan": "plan moyen",
-   "image": "ENZO arriving in front of a luxury mansion with CLARA and a little girl with a cherry head holding his hand, ENZO not looking at CLARA, cold tension, sunny day",
+   "lignes": [
+    [
+     "LUCAS",
+     "Le roi est de retour !"
+    ],
+    [
+     "NARRATEUR",
+     "La voiture est louée. Il a quarante euros sur son compte."
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Allée du Domaine",
+   "plan": "plan moyen",
+   "image": "{froid} ENZO arriving in front of a luxury mansion holding the hand of a little girl with a cherry head, sunny day",
    "musique": "tension",
-   "lignes": [["NARRATEUR", "Enzo a une maison, une famille parfaite… et une femme à qui il ne parle plus."]]},
-  {"id": 4, "lieu": "Allée du Domaine", "plan": "plan moyen",
-   "image": "MATHIS walking calmly on foot up the long driveway of a luxury mansion, wearing his grey hoodie, small backpack, a CEO badge on a lanyard, humble smile, sunny day",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Enzo a une maison, une famille parfaite… et une femme à qui il ne parle plus."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Allée du Domaine",
+   "plan": "plan moyen",
+   "image": "{joie} MATHIS walking on foot up the driveway of a luxury mansion, small backpack, CEO badge on a lanyard, sunny day",
    "musique": "espoir",
-   "lignes": [["LUCAS", "T'es venu à pied ? T'as toujours pas de voiture, le pauvre ?"], ["MATHIS", "J'aime bien marcher."]]},
-  {"id": 5, "lieu": "Allée du Domaine", "plan": "insert",
-   "image": "close-up of a business magazine cover lying on a garden table, showing MATHIS smiling with arms crossed, sunny day",
+   "lignes": [
+    [
+     "LUCAS",
+     "T'es venu à pied ? T'as toujours pas de voiture, le pauvre ?"
+    ],
+    [
+     "MATHIS",
+     "J'aime bien marcher."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Allée du Domaine",
+   "plan": "insert",
+   "image": "a business magazine cover on a garden table showing a smiling orange-headed businessman in a grey hoodie, sunny day",
    "musique": "espoir",
-   "lignes": [["NARRATEUR", "Ce que Lucas ignore : Récolte vaut aujourd'hui quarante millions d'euros."]]},
-  {"id": 6, "lieu": "Grand salon", "plan": "plan large",
-   "image": "PERE older and weaker standing in front of a big fireplace with his cane in a luxurious mansion living room, LUCAS ENZO and MATHIS facing him, golden light",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Ce que Lucas ignore : Récolte vaut aujourd'hui quarante millions d'euros."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Grand salon",
+   "plan": "plan large",
+   "image": "{froid} old PERE standing in front of a big fireplace with his cane, luxurious mansion living room with fireplace and chandelier, warm golden light",
    "musique": "mystere",
-   "lignes": [["PERE", "Mes fils. Vous avez vécu dix ans. Et vous croyez avoir compris pourquoi."]]},
-  {"id": 7, "lieu": "Grand salon", "plan": "gros plan Lucas",
-   "image": "close-up of LUCAS smiling arrogantly, sunglasses on his head, luxurious living room background",
+   "lignes": [
+    [
+     "PERE",
+     "Mes fils. Vous avez vécu dix ans. Et vous croyez avoir compris pourquoi."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Grand salon",
+   "plan": "gros plan Lucas",
+   "image": "close-up of {fier} LUCAS, sunglasses on his head, luxurious living room",
    "musique": "luxe",
-   "lignes": [["LUCAS", "C'est évident. Pour voir lequel de nous sait gagner de l'argent."]]},
-  {"id": 8, "lieu": "Grand salon", "plan": "gros plan sur le père",
-   "image": "close-up of PERE with a cold severe stare, his face half in shadow, firelight, dramatic",
+   "lignes": [
+    [
+     "LUCAS",
+     "C'est évident. Pour voir lequel de nous sait gagner de l'argent."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Grand salon",
+   "plan": "gros plan sur le père",
+   "image": "close-up of {colere} PERE, his face half in shadow, firelight",
    "musique": "tension",
-   "lignes": [["PERE", "Vous ne savez absolument rien."]]},
-  {"id": 9, "lieu": "Grand salon", "plan": "plan moyen",
-   "image": "PERE coughing violently into a white handkerchief with a red stain, MATHIS rushing to hold him, worried, luxurious living room",
+   "lignes": [
+    [
+     "PERE",
+     "Vous ne savez absolument rien."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Grand salon",
+   "plan": "plan moyen",
+   "image": "{inquiet} PERE coughing into a white handkerchief with a red stain, luxurious living room",
    "musique": "triste",
-   "lignes": [["MATHIS", "Papa ! Ça va ?"], ["PERE", "Lâche-moi. Écoutez-moi bien, tous les trois."]]},
-  {"id": 10, "lieu": "Grand salon", "plan": "plan large, quatre chaises",
+   "lignes": [
+    [
+     "MATHIS",
+     "Papa ! Ça va ?"
+    ],
+    [
+     "PERE",
+     "Lâche-moi. Écoutez-moi bien, tous les trois."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Grand salon",
+   "plan": "plan large, quatre chaises",
    "image": "four antique chairs placed in a row in front of a fireplace in a luxurious mansion living room, one chair empty and covered with dust, dramatic golden light",
    "musique": "tension",
-   "lignes": [["PERE", "Cette expérience n'était pas prévue pour trois personnes."], ["PERE", "Vous auriez dû être quatre."]]},
-  {"id": 11, "lieu": "Grand salon", "plan": "plan moyen",
-   "image": "LUCAS, ENZO and MATHIS standing together, all three shocked with wide eyes and open mouths, luxurious living room, dramatic light",
+   "lignes": [
+    [
+     "PERE",
+     "Cette expérience n'était pas prévue pour trois personnes."
+    ],
+    [
+     "PERE",
+     "Vous auriez dû être quatre."
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "lieu": "Grand salon",
+   "plan": "plan moyen",
+   "image": "{choc} ENZO, luxurious mansion living room, dramatic light",
    "musique": "tension",
-   "lignes": [["ENZO", "Quatre ? Qu'est-ce que tu racontes ?"]]},
-  {"id": 12, "lieu": "Portes du salon", "plan": "plan large, contre-jour",
-   "image": "huge double doors of a luxurious mansion living room opening dramatically, OMBRE standing in the doorway backlit by bright light, mysterious silhouette",
+   "lignes": [
+    [
+     "ENZO",
+     "Quatre ? Qu'est-ce que tu racontes ?"
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "lieu": "Portes du salon",
+   "plan": "plan large, contre-jour",
+   "image": "huge double doors of a luxurious mansion living room opening dramatically, OMBRE standing in the doorway backlit by bright light",
    "musique": "tension",
    "ecran": "PARTIE 11 →",
-   "lignes": [["CLARA", "Non… pas elle. Pas ici."]]}
+   "lignes": [
+    [
+     "CLARA",
+     "Non… pas elle. Pas ici."
+    ]
+   ]
+  }
  ]
 }

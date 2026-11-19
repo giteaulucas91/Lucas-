@@ -52,7 +52,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic pineapple character, his whole head is a giant realistic pineapple with spiky green crown)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, man with a sly smirk, (wearing a purple floral shirt and gold aviator sunglasses)1.2 showing a glossy architectural model of luxury villas to (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 on a table in a luxury penthouse, Monaco view, sunny, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (evil sly)1.5, (narrowed eyes, sneaky smirk)1.4, (anthropomorphic pineapple man with a giant pineapple head with a spiky green crown, gold aviator sunglasses, wearing a purple floral shirt)1.3 showing a glossy architectural model of luxury villas, luxury penthouse with Monaco view, sunny, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -68,7 +68,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 hesitating, rubbing his chin, greedy dreaming eyes, luxury penthouse background, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (worried)1.5, (raised eyebrows, anxious frown)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 rubbing his chin, luxury penthouse, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -84,7 +84,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a hand with a gold pen signing a contract on a glass table, a gold watch on the wrist, luxury penthouse, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a hand with a gold pen signing a contract on a glass table, a gold watch on the wrist, luxury penthouse, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -100,7 +100,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 and (anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, cheerful, (wearing a mustard yellow sweater and denim overalls)1.2 working on old laptops in a messy small garage turned into an office, cardboard boxes, a single light bulb, night, motivated, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (determined)1.5, (focused eyes, confident)1.3, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 and (anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3 working on old laptops in a messy small garage office at night, a single light bulb, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -115,7 +115,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 smiling and pointing at a laptop screen showing a green app logo, (anthropomorphic raspberry character, her whole head is a giant realistic pink raspberry)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes, cheerful, (wearing a mustard yellow sweater and denim overalls)1.2 cheering next to him in a small garage office at night, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic raspberry woman with a giant pink raspberry head, long eyelashes, wearing a mustard yellow sweater and denim overalls)1.3 cheering in a small garage office at night, laptop with a green app logo, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -131,7 +131,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 on an old bicycle with a big delivery bag on his back riding through a city street in the early morning, determined, sunrise, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (determined)1.5, (focused eyes, confident)1.3, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 riding an old bicycle with a big delivery bag in a city street at sunrise, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -146,7 +146,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 standing alone on an empty abandoned muddy construction site with a broken sign of luxury villas, shocked, grey cloudy sky, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (shocked)1.5, (wide eyes, mouth wide open)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 alone on an empty abandoned muddy construction site, grey cloudy sky, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -162,7 +162,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 holding his phone to his ear, panicked face, on an abandoned construction site, grey sky, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 holding his phone to his ear, abandoned construction site, grey sky, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -177,7 +177,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 sitting nervously in front of a serious banker in a dark suit behind a marble desk in a luxurious private bank office, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (worried)1.5, (raised eyebrows, anxious frown)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 sitting in front of a marble desk in a luxurious private bank office, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -194,7 +194,7 @@ Le banquier : « Monsieur… il faut que vous vous asseyiez. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, extreme close-up of (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 face with wide terrified eyes, sweat, dramatic cold light, private bank office, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, extreme close-up of (shocked)1.5, (wide eyes, mouth wide open)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 sweating, dramatic cold light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

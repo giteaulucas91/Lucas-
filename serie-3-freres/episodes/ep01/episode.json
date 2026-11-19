@@ -14,7 +14,7 @@
    "id": 1,
    "lieu": "Domaine Verger, extérieur nuit",
    "plan": "plan large, contre-plongée",
-   "image": "a gigantic luxury french chateau mansion at night in a storm, lightning in the sky, golden lit windows, long driveway with fountain, dramatic cinematic wide shot",
+   "image": "a gigantic luxury french chateau mansion at night, (thunderstorm with lightning in the dark sky)1.3, golden lit windows, fountain, cinematic wide shot",
    "musique": "mystere",
    "lignes": [
     [
@@ -27,16 +27,16 @@
    "id": 2,
    "lieu": "Grand salon",
    "plan": "plan moyen",
-   "image": "PERE sitting in a huge leather armchair in front of a large fireplace in a luxurious mansion living room, both hands on his cane, severe expression, chandelier, warm golden light",
+   "image": "{froid} PERE sitting in a huge red leather armchair, both hands on his cane, luxurious mansion living room with fireplace and chandelier, warm golden light",
    "musique": "mystere",
    "lignes": [
     [
      "PERE",
-     "Mes fils. J'ai bâti un empire de trois milliards."
+     "J'ai bâti un empire de trois milliards."
     ],
     [
      "PERE",
-     "Mais aucun de vous ne le mérite. Pas encore."
+     "Mais aucun de vous ne le mérite."
     ]
    ]
   },
@@ -44,12 +44,12 @@
    "id": 3,
    "lieu": "Grand salon",
    "plan": "plan d'ensemble, les trois frères",
-   "image": "LUCAS, ENZO and MATHIS standing side by side in a luxurious mansion living room, looking surprised, warm golden light from a fireplace",
+   "image": "{choc} LUCAS pointing at himself, luxurious mansion living room with fireplace and chandelier, warm golden light",
    "musique": "mystere",
    "lignes": [
     [
      "LUCAS",
-     "Pas encore ? Papa, je suis ton fils aîné !"
+     "Quoi ?! Papa, je suis ton fils aîné !"
     ]
    ]
   },
@@ -70,12 +70,12 @@
    "id": 5,
    "lieu": "Grand salon",
    "plan": "plan rapproché sur Lucas",
-   "image": "LUCAS opening a golden envelope full of money, huge excited greedy smile, luxurious mansion living room background",
+   "image": "{joie} LUCAS holding a golden envelope full of euro banknotes, luxurious mansion living room with fireplace and chandelier, warm golden light",
    "musique": "luxe",
    "lignes": [
     [
      "PERE",
-     "Lucas. Dix millions d'euros. Fais-en ce que tu veux."
+     "Lucas. Dix millions d'euros."
     ],
     [
      "LUCAS",
@@ -87,7 +87,7 @@
    "id": 6,
    "lieu": "Grand salon",
    "plan": "plan rapproché sur Enzo",
-   "image": "ENZO holding an open white envelope and a house key, thoughtful serious face, luxurious mansion living room background",
+   "image": "{determine} ENZO holding a white envelope and a house key, luxurious mansion living room with fireplace and chandelier, warm golden light",
    "musique": "tension",
    "lignes": [
     [
@@ -104,7 +104,7 @@
    "id": 7,
    "lieu": "Grand salon",
    "plan": "gros plan sur Mathis",
-   "image": "close-up of MATHIS holding an old brown paper envelope with only a few euro banknotes inside, shocked sad eyes, luxurious mansion background",
+   "image": "close-up of {choc} MATHIS holding an old brown envelope with a few banknotes, luxurious mansion living room with fireplace and chandelier, warm golden light",
    "musique": "triste",
    "lignes": [
     [
@@ -121,7 +121,7 @@
    "id": 8,
    "lieu": "Grand salon",
    "plan": "gros plan sur le père, regard dur",
-   "image": "close-up of PERE staring coldly at someone, mysterious face, his face half lit by fireplace light",
+   "image": "close-up of {froid} PERE, his face half lit by fireplace light, dark mansion room",
    "musique": "tension",
    "lignes": [
     [
@@ -138,12 +138,12 @@
    "id": 9,
    "lieu": "Grand salon",
    "plan": "plan moyen",
-   "image": "PERE standing up with his cane in front of a large fireplace, pointing his finger, authoritative, dramatic warm light",
+   "image": "{colere} PERE standing in front of a big fireplace, pointing his finger forward, luxurious mansion living room with fireplace and chandelier, warm golden light",
    "musique": "tension",
    "lignes": [
     [
      "PERE",
-     "Dans dix ans, vous reviendrez ici. Celui qui aura compris le vrai sens de la réussite héritera de tout."
+     "Dans dix ans, revenez ici. Celui qui aura compris le vrai sens de la réussite héritera de tout."
     ]
    ]
   },
@@ -151,7 +151,7 @@
    "id": 10,
    "lieu": "Grand salon",
    "plan": "insert",
-   "image": "PERE coughing into a white handkerchief with a small red stain, worried eyes, dark mansion room, dramatic lighting",
+   "image": "{inquiet} PERE coughing into a white handkerchief with a small red stain, dark mansion room, dramatic lighting",
    "musique": "triste",
    "lignes": [
     [
@@ -164,7 +164,7 @@
    "id": 11,
    "lieu": "Perron du Domaine, nuit",
    "plan": "plan large de dos",
-   "image": "LUCAS, ENZO and MATHIS seen from behind walking away from a luxury mansion at night in the rain, each going in a different direction, a yellow sports car, a small family car and a man on foot",
+   "image": "back view of three anthropomorphic fruit characters, (a banana, a green apple and an orange)1.3, walking away from a luxury mansion at night in the rain, a yellow sports car, cinematic",
    "musique": "mystere",
    "lignes": [
     [
@@ -177,7 +177,7 @@
    "id": 12,
    "lieu": "Balcon du Domaine, nuit",
    "plan": "plan large, silhouette",
-   "image": "OMBRE standing on a dark mansion balcony at night in the rain, taking photos with a professional camera with a long lens, mysterious silhouette, cold blue light",
+   "image": "OMBRE standing on a dark mansion balcony at night in the rain, taking photos with a camera with a long lens, cold blue light",
    "musique": "tension",
    "ecran": "PARTIE 2 →",
    "lignes": [

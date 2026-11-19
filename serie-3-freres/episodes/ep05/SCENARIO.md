@@ -50,7 +50,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic plum character, her whole head is a giant realistic dark purple plum)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, mysterious woman with black sunglasses, (wearing a long black trench coat and a black wide-brim hat)1.2 standing still under a street lamp in a dark wet street at night, fog, mysterious silhouette, cinematic, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (mysterious anthropomorphic plum woman with a giant dark purple plum head, black sunglasses, wearing a long black trench coat and a black wide-brim hat)1.3 standing still under a street lamp in a dark wet foggy street at night, cinematic, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -66,7 +66,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 at a roulette table in a luxurious golden casino, throwing a big pile of chips, (anthropomorphic plum character, her whole head is a giant realistic dark purple plum)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, mysterious woman with black sunglasses, (wearing a long black trench coat and a black wide-brim hat)1.2 standing in the background watching him, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 at a roulette table in a luxurious golden casino, throwing a big pile of chips, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -82,7 +82,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic banana character, his whole head is a giant realistic yellow banana)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, cocky smile, (wearing a white blazer over a black t-shirt and a thick gold chain)1.2 turning his head, frowning, as if he saw someone in a crowded luxurious casino, golden light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (suspicious)1.5, (one raised eyebrow, squinting eyes)1.4, (anthropomorphic banana character with a giant yellow banana head, wearing a white blazer over a black t-shirt and a gold chain)1.3 turning his head in a crowded luxurious casino, golden light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -97,7 +97,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 walking in a modern office building lobby with his briefcase, (anthropomorphic plum character, her whole head is a giant realistic dark purple plum)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, mysterious woman with black sunglasses, (wearing a long black trench coat and a black wide-brim hat)1.2 sitting in the background on a sofa pretending to read a newspaper, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (exhausted)1.5, (tired droopy eyes, dark circles)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 walking with his briefcase in a modern office building lobby, a woman in a black hat reading a newspaper in the background, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -112,7 +112,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 in the street at night carrying boxes of food, looking suspiciously at a black car parked across the street with tinted windows, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (suspicious)1.5, (one raised eyebrow, squinting eyes)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 in the street at night carrying boxes, looking at a black car with tinted windows, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -127,7 +127,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 running in a dark wet street at night chasing (anthropomorphic plum character, her whole head is a giant realistic dark purple plum)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, mysterious woman with black sunglasses, (wearing a long black trench coat and a black wide-brim hat)1.2 who walks quickly away, rain, street lamps, cinematic motion, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (determined)1.5, (focused eyes, confident)1.3, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 running in a dark wet street at night in the rain, cinematic motion, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -142,7 +142,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic orange character, his whole head is a giant realistic orange fruit with textured peel and a small leaf)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man, kind smile, (wearing a grey hoodie and blue jeans)1.2 alone in an empty dark alley at night in the rain, looking around confused, a black notebook lying on the wet ground at his feet, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (shocked)1.5, (wide eyes, mouth wide open)1.4, (anthropomorphic orange character with a giant orange fruit head, wearing a grey hoodie and blue jeans)1.3 in an empty dark alley at night in the rain, a black notebook lying on the wet ground, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -157,7 +157,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of a black leather notebook open on wet ground at night, handwritten pages with three photos clipped on them, red ink, rain drops, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of a black leather notebook open on wet ground at night, handwritten pages with three photos clipped on them, red ink, rain drops, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -172,7 +172,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic plum character, her whole head is a giant realistic dark purple plum)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, mysterious woman with black sunglasses, (wearing a long black trench coat and a black wide-brim hat)1.2 sitting in the back of a black car at night, holding three photos and a red marker, face in shadow, rain on windows, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (mysterious anthropomorphic plum woman with a giant dark purple plum head, black sunglasses, wearing a long black trench coat and a black wide-brim hat)1.3 sitting in the back of a black car at night holding photos, rain on the windows, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -189,7 +189,7 @@ L'Ombre coche trois photos : « Année 1 terminée. » Puis une quatrième photo
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of black gloved hands drawing a red cross on three photos of young men inside a dark car, then a fourth photo face down, dramatic light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of black gloved hands drawing a red cross on three photos of young men inside a dark car, then a fourth photo face down, dramatic light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

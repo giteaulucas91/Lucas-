@@ -3,50 +3,159 @@
  "titre": "500 euros",
  "question": "Comment survivre avec 500 euros ?",
  "resume": "Mathis part de zéro : il dort dans sa vieille voiture, se fait voler, puis trouve un travail de plongeur la nuit. En récupérant les invendus du restaurant, il rencontre Sofia, une étudiante en informatique.",
- "intrigues_semees": ["L'idée de Récolte", "La photo de Mathis sur le bureau d'Augustin (surveillance)"],
+ "intrigues_semees": [
+  "L'idée de Récolte",
+  "La photo de Mathis sur le bureau d'Augustin (surveillance)"
+ ],
  "cliffhanger": "La photo de Mathis et Sofia arrive sur le bureau d'Augustin.",
  "scenes": [
-  {"id": 1, "lieu": "Parking, nuit", "plan": "plan moyen",
-   "image": "MATHIS sleeping curled up in the back seat of an old rusty small car parked in a dark empty parking lot at night, rain on the windows, cold blue light",
+  {
+   "id": 1,
+   "lieu": "Parking, nuit",
+   "plan": "plan moyen",
+   "image": "{epuise} MATHIS sleeping curled up in the back seat of an old small car at night, rain on the windows, cold blue light",
    "musique": "triste",
-   "lignes": [["NARRATEUR", "Pendant que Lucas fête son premier million, Mathis dort dans sa voiture."]]},
-  {"id": 2, "lieu": "Parking, matin", "plan": "plan moyen",
-   "image": "MATHIS standing next to an old small car with a broken window, glass shards on the ground, devastated face, holding an empty wallet, grey morning",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Pendant que Lucas fête son premier million, Mathis dort dans sa voiture."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Parking, matin",
+   "plan": "plan moyen",
+   "image": "{pleurs} MATHIS standing next to an old small car with a broken window, holding an empty wallet, grey morning",
    "musique": "triste",
-   "lignes": [["MATHIS", "Non… non, non, non ! Mon portefeuille…"], ["MATHIS", "Il me restait trois cent vingt euros."]]},
-  {"id": 3, "lieu": "Rue, porte de restaurant", "plan": "plan moyen",
-   "image": "MATHIS standing at the back door of a busy restaurant kitchen, hopeful face, talking to an angry chef in white uniform, evening",
+   "lignes": [
+    [
+     "MATHIS",
+     "Non… non, non, non ! Mon portefeuille…"
+    ],
+    [
+     "MATHIS",
+     "Il me restait trois cent vingt euros."
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Rue, porte de restaurant",
+   "plan": "plan moyen",
+   "image": "{determine} MATHIS at the back door of a busy restaurant kitchen in the evening, talking to a chef in white uniform",
    "musique": "tension",
-   "lignes": [["MATHIS", "Je prends n'importe quel boulot. La nuit, le week-end, tout."]]},
-  {"id": 4, "lieu": "Cuisine du restaurant, nuit", "plan": "plan moyen",
-   "image": "MATHIS washing a huge pile of dirty dishes in a restaurant kitchen at night, exhausted but determined, steam, harsh fluorescent light",
+   "lignes": [
+    [
+     "MATHIS",
+     "Je prends n'importe quel boulot. La nuit, le week-end, tout."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Cuisine du restaurant, nuit",
+   "plan": "plan moyen",
+   "image": "{epuise} MATHIS washing a huge pile of dirty dishes in a restaurant kitchen at night, steam, fluorescent light",
    "musique": "triste",
    "ecran": "MOIS 2",
-   "lignes": [["NARRATEUR", "Dix heures par nuit. Neuf euros de l'heure. Sans jamais se plaindre."]]},
-  {"id": 5, "lieu": "Arrière du restaurant, nuit", "plan": "plan moyen",
-   "image": "MATHIS at night behind a restaurant putting good fresh unsold food from a trash bin into boxes, street lamp light, wet street",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Dix heures par nuit. Neuf euros de l'heure. Sans jamais se plaindre."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Arrière du restaurant, nuit",
+   "plan": "plan moyen",
+   "image": "{triste} MATHIS behind a restaurant at night putting fresh unsold food into cardboard boxes, street lamp, wet street",
    "musique": "mystere",
-   "lignes": [["MATHIS", "Tout ça finit à la poubelle… chaque soir."]]},
-  {"id": 6, "lieu": "Ruelle, nuit", "plan": "plan à deux",
-   "image": "SOFIA surprised, looking at MATHIS who is holding boxes of food, in a narrow street behind a restaurant at night, street lamp, wet ground",
+   "lignes": [
+    [
+     "MATHIS",
+     "Tout ça finit à la poubelle… chaque soir."
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Ruelle, nuit",
+   "plan": "plan à deux",
+   "image": "{choc} SOFIA pointing her finger in a narrow street at night, street lamp, wet ground",
    "musique": "espoir",
-   "lignes": [["SOFIA", "Hé ! Tu voles de la nourriture ?"], ["MATHIS", "Non… je la sauve. Elle allait être jetée."]]},
-  {"id": 7, "lieu": "Banc, nuit", "plan": "plan à deux",
-   "image": "MATHIS and SOFIA sitting on a public bench at night sharing food from boxes, laughing, city lights bokeh, warm atmosphere",
+   "lignes": [
+    [
+     "SOFIA",
+     "Hé ! Tu voles de la nourriture ?"
+    ],
+    [
+     "MATHIS",
+     "Non… je la sauve. Elle allait être jetée."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Banc, nuit",
+   "plan": "plan à deux",
+   "image": "{joie} MATHIS on the left and SOFIA on the right sitting on a bench at night sharing food from boxes, city lights bokeh",
    "musique": "espoir",
-   "lignes": [["SOFIA", "Moi c'est Sofia. Étudiante en informatique. Et fauchée."], ["MATHIS", "Mathis. Fauché aussi. Mais motivé."]]},
-  {"id": 8, "lieu": "Banc, nuit", "plan": "gros plan sur Sofia, illuminée",
-   "image": "close-up of SOFIA with a sudden excited idea face, big shining eyes, holding her smartphone, city lights at night",
+   "lignes": [
+    [
+     "SOFIA",
+     "Moi c'est Sofia. Étudiante en informatique. Et fauchée."
+    ],
+    [
+     "MATHIS",
+     "Mathis. Fauché aussi. Mais motivé."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Banc, nuit",
+   "plan": "gros plan sur Sofia, illuminée",
+   "image": "close-up of {joie} SOFIA with an excited idea, holding her smartphone, city lights at night",
    "musique": "espoir",
-   "lignes": [["SOFIA", "Attends… tous les restaurants jettent ça chaque soir ?"], ["SOFIA", "Mathis… tu viens d'avoir une idée à un million."]]},
-  {"id": 9, "lieu": "Bureau d'Augustin, nuit", "plan": "plan moyen",
-   "image": "PERE sitting at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp, mysterious serious face",
+   "lignes": [
+    [
+     "SOFIA",
+     "Attends… tous les restaurants jettent ça chaque soir ?"
+    ],
+    [
+     "SOFIA",
+     "Mathis… tu viens d'avoir une idée à un million."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Bureau d'Augustin, nuit",
+   "plan": "plan moyen",
+   "image": "{suspect} PERE sitting at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp",
    "musique": "mystere",
-   "lignes": [["NARRATEUR", "Au même moment, à huit cents kilomètres de là…"]]},
-  {"id": 10, "lieu": "Bureau d'Augustin", "plan": "insert",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Au même moment, à huit cents kilomètres de là…"
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Bureau d'Augustin",
+   "plan": "insert",
    "image": "close-up of a printed photo on a wooden desk showing two young people sitting on a bench at night, a hand with a gold signet ring holding it, desk lamp light",
    "musique": "tension",
    "ecran": "PARTIE 4 →",
-   "lignes": [["PERE", "Une framboise… Ça, ce n'était pas prévu."]]}
+   "lignes": [
+    [
+     "PERE",
+     "Une framboise… Ça, ce n'était pas prévu."
+    ]
+   ]
+  }
  ]
 }

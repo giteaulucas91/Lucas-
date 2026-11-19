@@ -5,7 +5,7 @@
 | **Fruit** | Fraise âgée (rouge profond, feuilles vertes) |
 | **Âge** | 72 ans au début, 82 aux retrouvailles |
 | **Tenue signature** | Costume trois-pièces bordeaux, chaîne de montre en or, petites lunettes rondes dorées, moustache blanche, canne noire à pommeau d'or |
-| **Voix** | Grave, lente, peu de mots (`fr-FR-HenriNeural`, -12 %, -14 Hz) |
+| **Voix** | Grave, lente, peu de mots (`fr-FR-HenriNeural`, -5 %, -14 Hz) |
 | **Couleur** | `#C8102E` |
 
 ## Personnalité

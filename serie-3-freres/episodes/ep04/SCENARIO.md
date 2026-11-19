@@ -51,7 +51,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 working late alone at a desk in a modern glass office tower open space at night, laptop with financial charts, city lights behind, focused, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (determined)1.5, (focused eyes, confident)1.3, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 working late at a desk in a modern glass office at night, laptop with financial charts, city lights, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -67,7 +67,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 shaking hands proudly with an older businessman in a grey suit in a modern office, big window, daylight, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (proud arrogant)1.5, (smug smirk, chin up)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 shaking hands with an older businessman in a grey suit in a modern office, daylight, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -83,7 +83,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 accidentally spilling a cup of coffee on (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2's navy suit at a parisian cafe terrace in the morning, both surprised, sunny, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (shocked)1.5, (wide eyes, mouth wide open)1.4, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 with coffee spilled on his shirt at a parisian cafe terrace, sunny morning, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -99,7 +99,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 and (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 laughing together at a small table of a parisian cafe terrace, sunny morning, romantic atmosphere, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 smiling at a parisian cafe terrace table, sunny morning, romantic, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -114,7 +114,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 with a slightly panicked frozen smile, eyes wide for a split second, parisian cafe background, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 with a frozen fake smile, parisian cafe, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -130,7 +130,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 and (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 walking hand in hand in a beautiful parisian street at sunset, Eiffel tower in the distance, romantic golden light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, back view of (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 and (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 walking hand in hand in a parisian street at sunset, Eiffel tower in the distance, romantic golden light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -145,7 +145,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic green apple character, his whole head is a giant realistic shiny green apple)1.4 with big expressive cartoon eyes and mouth, (tall adult man human body with arms and legs)1.2, young man with black rectangular glasses, (wearing a navy blue suit, white shirt and light blue tie)1.2 giving a small present box to (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 in a cozy modern apartment living room in the evening, she smiles tenderly, warm lamp light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 holding a gold heart locket in a cozy apartment in the evening, warm lamp light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -160,7 +160,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 alone inside a parked car at night, her smile disappears, cold sad serious face, street lights through the windshield, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, (cold serious)1.5, (narrowed eyes, mouth closed, stern)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 alone in a parked car at night, street lights through the windshield, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -175,7 +175,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of hands opening a gold heart-shaped locket inside a car at night, a tiny photo inside, dramatic light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, close-up of hands opening a gold heart-shaped locket inside a car at night, a tiny photo inside, dramatic light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -192,7 +192,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, extreme close-up of (anthropomorphic cherry character, her whole head is a giant realistic glossy dark red cherry with a stem)1.4 with big expressive cartoon eyes and mouth, (tall adult woman human body with arms and legs)1.2, young woman with long eyelashes and red lips, (wearing an elegant black dress and a gold heart locket necklace)1.2 crying silently in a car at night, holding an open gold locket, guilty face, blue light, cinematic lighting, highly detailed, expressive cartoon faces, vertical composition
+(3D Pixar animated movie still)1.2, extreme close-up of (crying)1.5, (tears on cheeks, mouth turned down)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 in a car at night holding an open gold locket, blue light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

@@ -7,7 +7,7 @@ Chaque personnage a une voix fixe (`data/personnages.json` → `voix`). **Ne jam
 | Personnage | Voix Edge | Réglage | Intention |
 |---|---|---|---|
 | Narrateur | fr-FR-HenriNeural | -4 %, -6 Hz | Voix de bande-annonce, posée |
-| Augustin (père) | fr-FR-HenriNeural | -12 %, -14 Hz | Grave, lente, autoritaire |
+| Augustin (père) | fr-FR-HenriNeural | -5 %, -14 Hz | Grave, lente, autoritaire |
 | Lucas | fr-FR-RemyMultilingualNeural | +6 % | Rapide, frimeur |
 | Enzo | fr-CH-FabriceNeural | — | Posé, précis |
 | Mathis | en-US-BrianMultilingualNeural | +2 % | Chaleureux (voix multilingue au français naturel) |
