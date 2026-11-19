@@ -144,9 +144,9 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Mot,ClipBlack,96,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,0,0,0,0,100,100,1,0,1,7,4,5,40,40,0,1
-Style: Ecran,ClipBlack,64,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,0,0,0,0,100,100,3,0,1,6,3,5,40,40,0,1
-Style: Titre,ClipBlack,58,&H0000D7FF,&H00FFFFFF,&H00101010,&H99000000,0,0,0,0,100,100,2,0,1,6,3,5,40,40,0,1
+Style: Mot,ClipBlack,104,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,0,0,0,0,100,100,1,0,1,7,4,5,40,40,0,1
+Style: Ecran,ClipBlack,84,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,0,0,0,0,100,100,3,0,1,6,3,5,40,40,0,1
+Style: Titre,ClipBlack,92,&H0000D7FF,&H00FFFFFF,&H00101010,&H99000000,0,0,0,0,100,100,2,0,1,6,3,5,40,40,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"""]
@@ -161,7 +161,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"
                        f"{{\\an5\\pos({W // 2},1450)\\blur0.6\\fscx86\\fscy86\\t(0,70,\\fscx100\\fscy100)}}{txt}")
     # titre de série au début
     ass.append(f"Dialogue: 2,{ts_ass(0)},{ts_ass(2.8)},Titre,,0,0,0,,"
-               f"{{\\an5\\pos({W // 2},230)\\fad(200,300)}}LES 3 FRÈRES\\N{{\\fs44\\c&HFFFFFF&}}PARTIE {num}")
+               f"{{\\an5\\pos({W // 2},260)\\fad(200,300)}}LES 3 FRÈRES\\N{{\\fs64\\c&HFFFFFF&}}PARTIE {num}")
     # textes d'écran (ANNÉE 3, PARTIE 2 →...)
     for p in plans:
         e = p["scene"].get("ecran")

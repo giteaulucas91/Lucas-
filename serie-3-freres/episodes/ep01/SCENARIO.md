@@ -70,7 +70,7 @@ Une femme en noir photographie les trois frères qui quittent le Domaine.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (cold serious)1.5, (narrowed eyes, mouth closed, stern)1.4, (old anthropomorphic strawberry character with a giant red strawberry head, white mustache, round gold glasses, wearing a burgundy three-piece suit)1.3 sitting in a huge red leather armchair, both hands on his cane, luxurious mansion living room with fireplace and chandelier, warm golden light, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (cold serious)1.5, (narrowed eyes, mouth closed, stern)1.4, (old anthropomorphic strawberry character with a giant red strawberry head, white mustache, round gold glasses, wearing a burgundy three-piece suit)1.3 sitting in a red leather armchair, luxurious mansion living room with fireplace, warm golden light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

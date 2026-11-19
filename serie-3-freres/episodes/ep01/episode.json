@@ -27,7 +27,7 @@
    "id": 2,
    "lieu": "Grand salon",
    "plan": "plan moyen",
-   "image": "{froid} PERE sitting in a huge red leather armchair, both hands on his cane, luxurious mansion living room with fireplace and chandelier, warm golden light",
+   "image": "close-up of {froid} PERE sitting in a red leather armchair, luxurious mansion living room with fireplace, warm golden light",
    "musique": "mystere",
    "lignes": [
     [
@@ -38,7 +38,8 @@
      "PERE",
      "Mais aucun de vous ne le mérite."
     ]
-   ]
+   ],
+   "graine": 50
   },
   {
    "id": 3,
