@@ -1,0 +1,207 @@
+{
+ "title": "Il fait semblant d'être ruiné pour tester sa fiancée",
+ "style": "3D Pixar movie still, cinematic lighting, highly detailed",
+ "characters": {
+  "FRAISE": "a man with a human body and a giant red strawberry head with big cartoon eyes",
+  "PECHE": "a woman in pink dress with a giant peach head with big cartoon eyes and eyelashes",
+  "CITRON": "a chauffeur with a human body and a giant yellow lemon head with big cartoon eyes",
+  "RAISIN": "a waitress with a human body and a giant purple grape head with big cartoon eyes"
+ },
+ "voices": {
+  "NARRATEUR": {
+   "voice": "fr-FR-HenriNeural",
+   "rate": "-4%",
+   "pitch": "-6Hz"
+  },
+  "FRAISE": {
+   "voice": "fr-FR-RemyMultilingualNeural",
+   "rate": "+0%",
+   "pitch": "-2Hz"
+  },
+  "CITRON": {
+   "voice": "fr-BE-GerardNeural",
+   "rate": "+4%",
+   "pitch": "+0Hz"
+  },
+  "PECHE": {
+   "voice": "fr-FR-DeniseNeural",
+   "rate": "+4%",
+   "pitch": "+2Hz"
+  },
+  "RAISIN": {
+   "voice": "fr-FR-VivienneMultilingualNeural",
+   "rate": "+0%",
+   "pitch": "+4Hz"
+  }
+ },
+ "scenes": [
+  {
+   "id": 1,
+   "image": "FRAISE wearing a luxury black suit and gold watch, standing proudly on the balcony of a gigantic luxury mansion at night, sports cars and fountain below, city lights",
+   "lines": [
+    [
+     "NARRATEUR",
+     "C'est l'un des hommes les plus riches du pays."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "image": "FRAISE wearing a black suit sitting behind a huge wooden desk in a luxurious mansion office, serious thoughtful face, CITRON standing next to him, warm lamp light, bookshelves",
+   "lines": [
+    [
+     "FRAISE",
+     "Demain, j'épouse Pêche. Mais je dois savoir une chose."
+    ],
+    [
+     "FRAISE",
+     "Est-ce qu'elle m'aime moi... ou mon argent ?"
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "image": "close-up of CITRON looking very worried, sweating, in a luxurious mansion office, warm lamp light",
+   "lines": [
+    [
+     "CITRON",
+     "Patron, c'est trop risqué."
+    ],
+    [
+     "FRAISE",
+     "Dis-lui que j'ai tout perdu. Ce soir."
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "image": "CITRON talking to PECHE sitting at a table in a luxurious golden restaurant with candles and champagne glass, night",
+   "lines": [
+    [
+     "CITRON",
+     "Madame... monsieur a fait faillite. Il ne lui reste plus rien."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "image": "close-up of PECHE shocked with wide eyes and open mouth, holding a champagne glass, luxurious golden restaurant background",
+   "lines": [
+    [
+     "PECHE",
+     "Plus rien ?! Même pas la villa ?"
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "image": "FRAISE wearing old torn dirty clothes, sad face, standing in front of PECHE who looks disgusted with arms crossed, on a dark street at night under heavy rain, street lamps, wet ground reflections",
+   "lines": [
+    [
+     "FRAISE",
+     "Chérie, on peut recommencer à zéro. Ensemble."
+    ],
+    [
+     "PECHE",
+     "Ne m'appelle plus jamais chérie. Je ne vais pas épouser un fauché."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "image": "a shiny diamond engagement ring lying on the wet ground in a puddle on a dark street at night in the rain, PECHE in pink dress walking away in the background, cinematic",
+   "lines": [
+    [
+     "NARRATEUR",
+     "Elle a jeté la bague par terre... et elle est partie."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "image": "RAISIN kindly offering a cup of hot coffee to FRAISE who wears old torn clothes and is soaked by rain, at the door of a small cozy cafe at night, warm light from inside",
+   "lines": [
+    [
+     "RAISIN",
+     "Monsieur, vous avez fait tomber ça. Et tenez, un café chaud. C'est offert."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "image": "FRAISE wearing old torn clothes sitting at a small table in a cozy modest cafe, emotional teary eyes, RAISIN smiling kindly next to him, warm light",
+   "lines": [
+    [
+     "FRAISE",
+     "Pourquoi tu m'aides ? Je n'ai plus rien."
+    ],
+    [
+     "RAISIN",
+     "Pas besoin d'argent pour être gentil."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "image": "a long black luxury limousine parked in front of a small modest cafe in the morning, FRAISE in an elegant black suit stepping out of the limousine, people staring",
+   "lines": [
+    [
+     "NARRATEUR",
+     "Le lendemain, une limousine s'est arrêtée devant le petit café."
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "image": "PECHE in a luxurious bedroom staring at her smartphone with a shocked angry face, mouth wide open",
+   "lines": [
+    [
+     "PECHE",
+     "Quoi ?! Il n'a jamais été ruiné ?!"
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "image": "PECHE running with a big fake smile and open arms toward FRAISE who wears an elegant black suit with a cold serious face, in front of a small cafe, black limousine behind",
+   "lines": [
+    [
+     "PECHE",
+     "Mon amour ! Hier je plaisantais, tu sais que je t'aime !"
+    ],
+    [
+     "FRAISE",
+     "Le mariage a bien lieu aujourd'hui..."
+    ],
+    [
+     "FRAISE",
+     "Mais pas avec toi."
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "image": "FRAISE in an elegant black suit kneeling on one knee holding an open ring box with a diamond ring toward RAISIN who covers her mouth with her hands, surprised, inside a cozy cafe",
+   "lines": [
+    [
+     "RAISIN",
+     "Monsieur... avant que je dise oui, vous devez savoir un secret."
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "image": "close-up of RAISIN looking nervous and guilty, PECHE standing in the cafe doorway in the background with a furious glare, dramatic lighting",
+   "lines": [
+    [
+     "RAISIN",
+     "Pêche... c'est ma grande sœur."
+    ],
+    [
+     "NARRATEUR",
+     "Abonne-toi pour la partie 2."
+    ]
+   ]
+  }
+ ]
+}
