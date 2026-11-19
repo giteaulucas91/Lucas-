@@ -134,14 +134,15 @@
    "id": 9,
    "lieu": "Bureau d'Augustin, nuit",
    "plan": "plan moyen",
-   "image": "{suspect} PERE sitting at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp",
+   "image": "close-up of {suspect} PERE at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp",
    "musique": "mystere",
    "lignes": [
     [
      "NARRATEUR",
      "Au même moment, à huit cents kilomètres de là…"
     ]
-   ]
+   ],
+   "graine": 50
   },
   {
    "id": 10,
