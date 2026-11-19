@@ -88,7 +88,7 @@
    "id": 6,
    "lieu": "Table des cadeaux",
    "plan": "insert",
-   "image": "close-up of an open handmade wooden box containing an old photo of three little boys laughing together, warm string lights",
+   "image": "close-up of an old faded photo in a wooden box showing (three little cartoon fruit children: a banana boy, a green apple boy and an orange boy)1.4 laughing together, warm string lights",
    "musique": "espoir",
    "lignes": [
     [
@@ -99,7 +99,8 @@
      "ENZO",
      "Mathis… merci."
     ]
-   ]
+   ],
+   "graine": 50
   },
   {
    "id": 7,
@@ -135,14 +136,15 @@
    "id": 9,
    "lieu": "Piste de danse",
    "plan": "gros plan sur Clara",
-   "image": "close-up of {peur} CLARA (in a white wedding dress)1.5 reading her phone, string lights at night",
+   "image": "close-up of {peur} CLARA with a white bridal veil, reading her phone, string lights at night",
    "musique": "tension",
    "lignes": [
     [
      "OMBRE",
      "Tu ne lui as toujours rien dit ? Il est temps."
     ]
-   ]
+   ],
+   "graine": 50
   },
   {
    "id": 10,
