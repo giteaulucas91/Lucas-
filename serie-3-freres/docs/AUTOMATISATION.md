@@ -6,7 +6,7 @@ Objectif : passer d'un `episode.json` à une vidéo TikTok 9:16 avec un minimum 
 
 | Étape | Outil intégré | Statut |
 |---|---|---|
-| Images | **SDXL-Turbo** en local (`tools/images.py --fournisseur local`), prompts pondérés avec *Compel* | ✅ Fonctionne (environ 18 s par image sur CPU 4 cœurs, environ 1 s sur GPU) |
+| Images | **SDXL-Turbo** en local (`tools/images.py --fournisseur local`), prompts pondérés avec *Compel* et étiquettes d'émotion | ✅ Fonctionne (environ 18 s par image sur CPU 4 cœurs, environ 1 s sur GPU) |
 | Animation | Zoom/panoramique lent (« Ken Burns ») + flash de transition (`tools/montage.py`) | ✅ Fonctionne |
 | Voix FR | **Edge TTS** (voix neuronales Microsoft), une voix par personnage, horodatage mot par mot | ✅ Fonctionne |
 | Synchronisation | Horodatage natif des voix → sous-titres au mot près | ✅ Fonctionne |

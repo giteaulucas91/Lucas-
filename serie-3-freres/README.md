@@ -13,6 +13,7 @@ serie-3-freres/
 ├── data/personnages.json        SOURCE DE VÉRITÉ visuelle et vocale (prompts officiels, voix)
 ├── episodes/
 │   ├── INDEX.md                 tableau de bord de la saison
+│   ├── ETAT_PRODUCTION.md       vidéos produites + remarques qualité
 │   └── epXX/
 │       ├── episode.json         scénario structuré (plans, prompts, répliques, musique)  ← on écrit ici
 │       ├── SCENARIO.md          généré : synopsis, dialogues, découpage, prompts
@@ -29,7 +30,8 @@ serie-3-freres/
 ├── docs/
 │   ├── AUTOMATISATION.md        étude des outils et API (images, animation, voix, musique)
 │   └── VOIX_ET_MONTAGE.md       instructions de voix, sous-titres, montage, checklist
-├── assets/                      polices, portraits de référence, musiques
+├── videos/                      ⭐ les 10 épisodes produits (MP4 9:16)
+├── assets/                      polices, musiques
 └── sorties/                     (non versionné) images, voix, vidéos générées
 ```
 

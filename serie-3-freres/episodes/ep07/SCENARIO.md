@@ -54,7 +54,7 @@ Année 5. Enzo épouse Clara. Lucas, en façade toujours riche, arrive en retard
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 and (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 (in a white wedding dress)1.5 at a garden wedding ceremony in front of a white flower arch at golden hour, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, (happy)1.4, (big smile)1.3, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 and (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 (in a white wedding dress)1.5 at a garden wedding ceremony in front of a white flower arch at golden hour, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -131,7 +131,7 @@ Année 5. Enzo épouse Clara. Lucas, en façade toujours riche, arrive en retard
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of an open handmade wooden box containing an old photo of three little boys laughing together, warm string lights, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, close-up of an old faded photo in a wooden box showing (three little cartoon fruit children: a banana boy, a green apple boy and an orange boy)1.4 laughing together, warm string lights, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -147,7 +147,7 @@ Année 5. Enzo épouse Clara. Lucas, en façade toujours riche, arrive en retard
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 and (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 (in a white wedding dress)1.5 dancing a slow romantic dance under string lights at night, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 and (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 (in a white wedding dress)1.5 dancing a slow romantic dance under string lights at night, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -177,7 +177,7 @@ Année 5. Enzo épouse Clara. Lucas, en façade toujours riche, arrive en retard
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 (in a white wedding dress)1.5 reading her phone, string lights at night, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 with a white bridal veil, reading her phone, string lights at night, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

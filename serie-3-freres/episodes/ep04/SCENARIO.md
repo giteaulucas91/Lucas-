@@ -99,7 +99,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 smiling at a parisian cafe terrace table, sunny morning, romantic, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 smiling at a parisian cafe terrace table, sunny morning, romantic, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -114,7 +114,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, close-up of (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 with a frozen fake smile, parisian cafe, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 with a frozen fake smile, parisian cafe, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -130,7 +130,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, back view of (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 and (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 walking hand in hand in a parisian street at sunset, Eiffel tower in the distance, romantic golden light, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, back view of (anthropomorphic green apple character with a giant shiny green apple head, black rectangular glasses, wearing a navy blue suit and light blue tie)1.3 and (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 walking hand in hand in a parisian street at sunset, Eiffel tower in the distance, romantic golden light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -145,7 +145,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 holding a gold heart locket in a cozy apartment in the evening, warm lamp light, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, (in love)1.4, (soft tender smile)1.3, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 holding a gold heart locket in a cozy apartment in the evening, warm lamp light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -160,7 +160,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (cold serious)1.5, (narrowed eyes, mouth closed, stern)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 alone in a parked car at night, street lights through the windshield, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, (cold serious)1.5, (narrowed eyes, mouth closed, stern)1.4, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 alone in a parked car at night, street lights through the windshield, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -192,7 +192,7 @@ Dans le médaillon, une photo d'Enzo prise AVANT leur rencontre.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, extreme close-up of (crying)1.5, (tears on cheeks, mouth turned down)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 in a car at night holding an open gold locket, blue light, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, extreme close-up of (crying)1.5, (tears on cheeks, mouth turned down)1.4, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 in a car at night holding an open gold locket, blue light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

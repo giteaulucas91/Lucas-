@@ -175,7 +175,7 @@ La photo de Mathis et Sofia arrive sur le bureau d'Augustin.
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (suspicious)1.5, (one raised eyebrow, squinting eyes)1.4, (old anthropomorphic strawberry character with a giant red strawberry head, white mustache, round gold glasses, wearing a burgundy three-piece suit)1.3 sitting at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, close-up of (suspicious)1.5, (one raised eyebrow, squinting eyes)1.4, (old anthropomorphic strawberry character with a giant red strawberry head, white mustache, round gold glasses, wearing a burgundy three-piece suit)1.3 at a big wooden desk in a dark office at night, looking at printed photos under a desk lamp, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>

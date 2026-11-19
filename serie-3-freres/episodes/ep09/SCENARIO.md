@@ -66,7 +66,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (angry)1.5, (furrowed angry eyebrows, frown)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 arguing in a modern kitchen at night, cold light, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, (angry)1.5, (furrowed angry eyebrows, frown)1.4, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 arguing in a modern kitchen at night, cold light, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
@@ -157,7 +157,7 @@ Dernier message de M. : « Demain, ils seront tous réunis. Prépare-toi. »
 <details><summary>Prompt image (généré)</summary>
 
 ```
-(3D Pixar animated movie still)1.2, (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry woman with a giant glossy dark red cherry head with a stem, long eyelashes, wearing an elegant black dress and a gold heart locket)1.3 standing in a dark hallway doorway at night in a nightgown, holding her gold locket, cinematic lighting, highly detailed, vertical composition
+(3D Pixar animated movie still)1.2, (scared)1.5, (wide fearful eyes, tense mouth)1.4, (anthropomorphic cherry character, her whole head is a giant round glossy dark red cherry fruit with a stem on top, no hair)1.5, big cartoon eyes with long eyelashes, (wearing an elegant black dress and a gold heart locket)1.2 standing in a dark hallway doorway at night in a nightgown, holding her gold locket, cinematic lighting, highly detailed, vertical composition
 ```
 
 </details>
