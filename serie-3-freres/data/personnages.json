@@ -1,0 +1,66 @@
+{
+  "_doc": "Source de vérité visuelle et vocale. Les clés (PERE, LUCAS...) sont utilisées dans les prompts des scènes : elles sont remplacées automatiquement par 'visuel'. Ne jamais modifier un visuel en cours de saison (cohérence).",
+  "style": "3D animated feature film still, Pixar Disney DreamWorks quality, cinematic lighting, depth of field, highly detailed realistic textures, expressive faces, vertical composition",
+  "personnages": {
+    "PERE": {
+      "nom": "Augustin Verger",
+      "fruit": "fraise",
+      "couleur": "#C8102E",
+      "visuel": "anthropomorphic strawberry character, elderly billionaire man, his head is a giant realistic red strawberry with green leaves on top, big expressive cartoon eyes, thick white eyebrows and white mustache, small round gold glasses, human body, wearing a dark burgundy three-piece suit with gold pocket watch chain, black cane with gold handle",
+      "voix": {"edge": "fr-FR-HenriNeural", "rate": "-12%", "pitch": "-14Hz"}
+    },
+    "LUCAS": {
+      "nom": "Lucas Verger",
+      "fruit": "banane",
+      "couleur": "#FFD100",
+      "visuel": "anthropomorphic banana character, young man, his head is a giant realistic yellow banana, big expressive cartoon eyes and eyebrows, cocky smile, human body, wearing a white blazer over a black t-shirt, thick gold chain necklace, sunglasses pushed on top of his head",
+      "voix": {"edge": "fr-FR-RemyMultilingualNeural", "rate": "+6%", "pitch": "+0Hz"}
+    },
+    "ENZO": {
+      "nom": "Enzo Verger",
+      "fruit": "pomme verte",
+      "couleur": "#7AC143",
+      "visuel": "anthropomorphic green apple character, young man, his head is a giant realistic shiny green apple with a small brown stem and leaf, big serious cartoon eyes, black rectangular glasses, human body, wearing a navy blue suit, white shirt and light blue tie",
+      "voix": {"edge": "fr-CH-FabriceNeural", "rate": "+0%", "pitch": "-2Hz"}
+    },
+    "MATHIS": {
+      "nom": "Mathis Verger",
+      "fruit": "orange",
+      "couleur": "#FF8200",
+      "visuel": "anthropomorphic orange fruit character, young man, his head is a giant realistic orange with textured peel and a small green leaf on top, big kind cartoon eyes, warm smile, human body, wearing a grey hoodie, blue jeans and worn white sneakers",
+      "voix": {"edge": "fr-FR-HenriNeural", "rate": "+4%", "pitch": "+6Hz"}
+    },
+    "CLARA": {
+      "nom": "Clara",
+      "fruit": "cerise",
+      "couleur": "#8B0A1A",
+      "visuel": "anthropomorphic cherry character, young woman, her head is a giant glossy dark red cherry with a stem on top, big cartoon eyes with long eyelashes, red lips, human body, wearing an elegant black dress and a gold heart-shaped locket necklace",
+      "voix": {"edge": "fr-FR-DeniseNeural", "rate": "+2%", "pitch": "-2Hz"}
+    },
+    "KEVIN": {
+      "nom": "Kevin",
+      "fruit": "ananas",
+      "couleur": "#C9A227",
+      "visuel": "anthropomorphic pineapple character, man, his head is a giant realistic pineapple with spiky green crown, big sly cartoon eyes, smirk, human body, wearing a purple floral shirt, gold aviator sunglasses and a gold watch",
+      "voix": {"edge": "fr-BE-GerardNeural", "rate": "+6%", "pitch": "+0Hz"}
+    },
+    "SOFIA": {
+      "nom": "Sofia",
+      "fruit": "framboise",
+      "couleur": "#E30B5C",
+      "visuel": "anthropomorphic raspberry character, young woman, her head is a giant realistic pink raspberry, big bright cartoon eyes with long eyelashes, cheerful smile, human body, wearing a mustard yellow sweater, denim overalls and big round earrings",
+      "voix": {"edge": "fr-FR-VivienneMultilingualNeural", "rate": "+4%", "pitch": "+3Hz"}
+    },
+    "OMBRE": {
+      "nom": "La femme en noir (identité secrète : Margaux Prunier)",
+      "fruit": "prune",
+      "couleur": "#4B0F3D",
+      "visuel": "mysterious anthropomorphic plum character, woman, her head is a giant dark purple plum, eyes hidden behind black sunglasses, human body, wearing a long black trench coat and a black wide-brim hat, black leather gloves",
+      "voix": {"edge": "fr-CA-SylvieNeural", "rate": "-8%", "pitch": "-8Hz"}
+    },
+    "NARRATEUR": {
+      "nom": "Narrateur",
+      "voix": {"edge": "fr-FR-HenriNeural", "rate": "-4%", "pitch": "-6Hz"}
+    }
+  }
+}
