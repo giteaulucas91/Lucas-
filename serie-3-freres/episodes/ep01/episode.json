@@ -3,57 +3,189 @@
  "titre": "Le Pacte",
  "question": "Lequel des trois frères va réussir ?",
  "resume": "Augustin Verger, milliardaire, convoque ses trois fils et leur impose trois vies différentes pendant dix ans : riche, classe moyenne, pauvre. L'héritier sera celui qui aura compris le vrai sens de la réussite.",
- "intrigues_semees": ["L'Ombre au balcon (S1)", "« Toi, tu me ressembles le moins » (S3 adoption)", "La toux du père (S6)"],
+ "intrigues_semees": [
+  "L'Ombre au balcon (S1)",
+  "« Toi, tu me ressembles le moins » (S3 adoption)",
+  "La toux du père (S6)"
+ ],
  "cliffhanger": "Une femme en noir photographie les trois frères qui quittent le Domaine.",
  "scenes": [
-  {"id": 1, "lieu": "Domaine Verger, extérieur nuit", "plan": "plan large, contre-plongée",
+  {
+   "id": 1,
+   "lieu": "Domaine Verger, extérieur nuit",
+   "plan": "plan large, contre-plongée",
    "image": "a gigantic luxury french chateau mansion at night in a storm, lightning in the sky, golden lit windows, long driveway with fountain, dramatic cinematic wide shot",
    "musique": "mystere",
-   "lignes": [["NARRATEUR", "Dans dix ans, l'un d'eux sera milliardaire. Un autre n'aura plus rien."]]},
-  {"id": 2, "lieu": "Grand salon", "plan": "plan moyen",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Dans dix ans, l'un d'eux sera milliardaire. Un autre n'aura plus rien."
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "Grand salon",
+   "plan": "plan moyen",
    "image": "PERE sitting in a huge leather armchair in front of a large fireplace in a luxurious mansion living room, both hands on his cane, severe expression, chandelier, warm golden light",
    "musique": "mystere",
-   "lignes": [["PERE", "Mes fils. J'ai bâti un empire de trois milliards."], ["PERE", "Mais aucun de vous ne le mérite. Pas encore."]]},
-  {"id": 3, "lieu": "Grand salon", "plan": "plan d'ensemble, les trois frères",
+   "lignes": [
+    [
+     "PERE",
+     "Mes fils. J'ai bâti un empire de trois milliards."
+    ],
+    [
+     "PERE",
+     "Mais aucun de vous ne le mérite. Pas encore."
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "Grand salon",
+   "plan": "plan d'ensemble, les trois frères",
    "image": "LUCAS, ENZO and MATHIS standing side by side in a luxurious mansion living room, looking surprised, warm golden light from a fireplace",
    "musique": "mystere",
-   "lignes": [["LUCAS", "Pas encore ? Papa, je suis ton fils aîné !"]]},
-  {"id": 4, "lieu": "Grand salon, table basse", "plan": "insert",
+   "lignes": [
+    [
+     "LUCAS",
+     "Pas encore ? Papa, je suis ton fils aîné !"
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "Grand salon, table basse",
+   "plan": "insert",
    "image": "three sealed envelopes with red wax seals on a dark wooden table, one golden envelope, one white envelope, one old brown paper envelope, candle light, close-up",
    "musique": "tension",
-   "lignes": [["PERE", "Trois enveloppes. Trois vies. Pendant dix ans."]]},
-  {"id": 5, "lieu": "Grand salon", "plan": "plan rapproché sur Lucas",
+   "lignes": [
+    [
+     "PERE",
+     "Trois enveloppes. Trois vies. Pendant dix ans."
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "Grand salon",
+   "plan": "plan rapproché sur Lucas",
    "image": "LUCAS opening a golden envelope full of money, huge excited greedy smile, luxurious mansion living room background",
    "musique": "luxe",
-   "lignes": [["PERE", "Lucas. Dix millions d'euros. Fais-en ce que tu veux."], ["LUCAS", "Dix millions ?! Je t'adore, papa !"]]},
-  {"id": 6, "lieu": "Grand salon", "plan": "plan rapproché sur Enzo",
+   "lignes": [
+    [
+     "PERE",
+     "Lucas. Dix millions d'euros. Fais-en ce que tu veux."
+    ],
+    [
+     "LUCAS",
+     "Dix millions ?! Je t'adore, papa !"
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "Grand salon",
+   "plan": "plan rapproché sur Enzo",
    "image": "ENZO holding an open white envelope and a house key, thoughtful serious face, luxurious mansion living room background",
    "musique": "tension",
-   "lignes": [["PERE", "Enzo. Une maison, et deux mille euros par mois. À toi de construire."], ["ENZO", "C'est juste. J'accepte."]]},
-  {"id": 7, "lieu": "Grand salon", "plan": "gros plan sur Mathis",
+   "lignes": [
+    [
+     "PERE",
+     "Enzo. Une maison et deux mille euros par mois."
+    ],
+    [
+     "ENZO",
+     "C'est juste. J'accepte."
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "Grand salon",
+   "plan": "gros plan sur Mathis",
    "image": "close-up of MATHIS holding an old brown paper envelope with only a few euro banknotes inside, shocked sad eyes, luxurious mansion background",
    "musique": "triste",
-   "lignes": [["MATHIS", "Cinq cents euros ? C'est tout ?"], ["PERE", "C'est tout. Pas de maison. Pas d'aide. Rien."]]},
-  {"id": 8, "lieu": "Grand salon", "plan": "gros plan sur le père, regard dur",
+   "lignes": [
+    [
+     "MATHIS",
+     "Cinq cents euros ? C'est tout ?"
+    ],
+    [
+     "PERE",
+     "Pas de maison. Pas d'aide. Rien."
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "Grand salon",
+   "plan": "gros plan sur le père, regard dur",
    "image": "close-up of PERE staring coldly at someone, mysterious face, his face half lit by fireplace light",
    "musique": "tension",
-   "lignes": [["MATHIS", "Pourquoi moi ?"], ["PERE", "Parce que toi, Mathis… tu me ressembles le moins."]]},
-  {"id": 9, "lieu": "Grand salon", "plan": "plan moyen",
+   "lignes": [
+    [
+     "MATHIS",
+     "Pourquoi moi ?"
+    ],
+    [
+     "PERE",
+     "Parce que toi, Mathis… tu me ressembles le moins."
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "Grand salon",
+   "plan": "plan moyen",
    "image": "PERE standing up with his cane in front of a large fireplace, pointing his finger, authoritative, dramatic warm light",
    "musique": "tension",
-   "lignes": [["PERE", "Dans dix ans, jour pour jour, vous reviendrez ici."], ["PERE", "Celui qui aura compris le vrai sens de la réussite héritera de tout."]]},
-  {"id": 10, "lieu": "Grand salon", "plan": "insert",
+   "lignes": [
+    [
+     "PERE",
+     "Dans dix ans, vous reviendrez ici. Celui qui aura compris le vrai sens de la réussite héritera de tout."
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "Grand salon",
+   "plan": "insert",
    "image": "PERE coughing into a white handkerchief with a small red stain, worried eyes, dark mansion room, dramatic lighting",
    "musique": "triste",
-   "lignes": [["NARRATEUR", "Ce que les trois frères ignorent… c'est que leur père leur cache bien plus qu'un héritage."]]},
-  {"id": 11, "lieu": "Perron du Domaine, nuit", "plan": "plan large de dos",
+   "lignes": [
+    [
+     "NARRATEUR",
+     "Mais leur père leur cache bien plus qu'un héritage."
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "lieu": "Perron du Domaine, nuit",
+   "plan": "plan large de dos",
    "image": "LUCAS, ENZO and MATHIS seen from behind walking away from a luxury mansion at night in the rain, each going in a different direction, a yellow sports car, a small family car and a man on foot",
    "musique": "mystere",
-   "lignes": [["ENZO", "On se revoit dans dix ans, les frères."], ["LUCAS", "Moi, je reviendrai milliardaire."]]},
-  {"id": 12, "lieu": "Balcon du Domaine, nuit", "plan": "plan large, silhouette",
+   "lignes": [
+    [
+     "LUCAS",
+     "Rendez-vous dans dix ans. Moi, je reviendrai milliardaire."
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "lieu": "Balcon du Domaine, nuit",
+   "plan": "plan large, silhouette",
    "image": "OMBRE standing on a dark mansion balcony at night in the rain, taking photos with a professional camera with a long lens, mysterious silhouette, cold blue light",
    "musique": "tension",
    "ecran": "PARTIE 2 →",
-   "lignes": [["OMBRE", "Expérience Verger. Jour un. Les trois sujets sont partis."]]}
+   "lignes": [
+    [
+     "OMBRE",
+     "Expérience Verger. Jour un. Les trois sujets sont partis."
+    ]
+   ]
+  }
  ]
 }

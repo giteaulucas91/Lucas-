@@ -1,0 +1,142 @@
+{
+ "numero": 11,
+ "titre": "La quatrième chaise",
+ "question": "À écrire : la question que se pose le spectateur",
+ "resume": "L'Ombre pose une enveloppe sur la table et repart sans un mot. Augustin refuse d'expliquer et donne une semaine aux frères.",
+ "intrigues_semees": [],
+ "cliffhanger": "Dans l'enveloppe : l'échographie d'un bébé, datée de 32 ans.",
+ "_regles": "Accroche < 2 s (plan 1). 110-150 mots au total. 1-2 répliques par plan. Personnages en MAJUSCULES dans 'image' (PERE, LUCAS, ENZO, MATHIS, CLARA, KEVIN, SOFIA, OMBRE). Préciser l'émotion du visage dans chaque prompt. Dernier plan : 'ecran': 'PARTIE N+1 →'.",
+ "scenes": [
+  {
+   "id": 1,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "mystere",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "tension",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "tension",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "triste",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "tension",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "espoir",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "tension",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "mystere",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "tension",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "lieu": "",
+   "plan": "",
+   "image": "",
+   "musique": "tension",
+   "lignes": [
+    [
+     "NARRATEUR",
+     ""
+    ]
+   ],
+   "ecran": "PARTIE 12 →"
+  }
+ ]
+}

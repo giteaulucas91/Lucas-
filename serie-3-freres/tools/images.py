@@ -1,7 +1,7 @@
 """Génération des images de scènes.
 
 Fournisseurs :
-  local      SDXL-Lightning 4 étapes sur CPU/GPU (gratuit, aucune clé) — PAR DÉFAUT
+  local      SDXL-Turbo 4 étapes sur CPU/GPU (gratuit, aucune clé) — PAR DÉFAUT
   fal        FLUX via fal.ai                         (variable FAL_KEY)
   replicate  FLUX via Replicate                      (variable REPLICATE_API_TOKEN)
   openai     gpt-image-1 via OpenAI                  (variable OPENAI_API_KEY)
@@ -21,7 +21,7 @@ import urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from commun import RACINE, charger_episode, charger_personnages, dossier_travail, prompt_scene  # noqa: E402
 
-LARGEUR, HAUTEUR = 768, 1344  # 9:16 environ, recadré au montage
+LARGEUR, HAUTEUR = 576, 1024  # 9:16 (agrandi au montage)
 
 
 # ------------------------------------------------------------------ local
@@ -29,20 +29,14 @@ class Local:
     def __init__(self):
         import torch
         from compel import Compel, ReturnedEmbeddingsType
-        from diffusers import EulerDiscreteScheduler, StableDiffusionXLPipeline, UNet2DConditionModel
-        from huggingface_hub import hf_hub_download
-        from safetensors.torch import load_file
+        from diffusers import AutoPipelineForText2Image
 
         self.torch = torch
         dev = "cuda" if torch.cuda.is_available() else "cpu"
         dtype = torch.float16 if dev == "cuda" else torch.bfloat16
         torch.set_num_threads(os.cpu_count())
-        base = "stabilityai/stable-diffusion-xl-base-1.0"
-        unet = UNet2DConditionModel.from_config(base, subfolder="unet").to(dtype)
-        unet.load_state_dict(load_file(
-            hf_hub_download("ByteDance/SDXL-Lightning", "sdxl_lightning_4step_unet.safetensors")))
-        pipe = StableDiffusionXLPipeline.from_pretrained(base, unet=unet, torch_dtype=dtype, variant="fp16")
-        pipe.scheduler = EulerDiscreteScheduler.from_config(pipe.scheduler.config, timestep_spacing="trailing")
+        pipe = AutoPipelineForText2Image.from_pretrained(
+            "stabilityai/sdxl-turbo", torch_dtype=dtype, variant="fp16")
         self.pipe = pipe.to(dev)
         # Compel : prompts longs (> 77 tokens) sans troncature
         self.compel = Compel(
@@ -136,8 +130,8 @@ def main():
                 chemin = os.path.join(dossier, f"{cle.lower()}_{k}.png")
                 if os.path.exists(chemin):
                     continue
-                prompt = (f"full body portrait of {p['visuel']}, standing, neutral studio background, "
-                          f"{perso['style']}")
+                prompt = (f"{perso['prefixe']}, full body portrait of {p['visuel']}, standing in a "
+                          f"luxurious mansion living room, {perso['style']}")
                 t = time.time()
                 moteur.generer(prompt, 777 + 10 * i + k, chemin)
                 print(f"portrait {cle} {k} : {time.time() - t:.0f}s", flush=True)
