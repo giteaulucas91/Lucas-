@@ -903,7 +903,7 @@ def rendre_video():
     cmd = ["ffmpeg", "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
            "-i", wav, "-map", "0:v", "-map", "1:a", "-shortest",
-           "-c:v", "libx264", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p",
+           "-c:v", "libx264", "-preset", "slow", "-crf", "23", "-maxrate", "14M", "-bufsize", "28M", "-pix_fmt", "yuv420p",
            "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", SORTIE]
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     with Pool(os.cpu_count()) as pool:
