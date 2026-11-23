@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """
-QUI RESTE AVEC TOI JUSQU'EN HAUT ? — animation stick-figure 9:16 (1080x1920, 30 i/s, 23,5 s).
+QUI TIENT JUSQU'AU BOUT ? — MOTIVATION / DISCIPLINE / EGO, version escalier
+Animation stick-figure 9:16 (1080x1920, 30 i/s, 23,5 s).
 
 Escalier en diagonale dans le noir, projecteurs volumétriques, personnages étiquetés qui
 montent, boules-obstacles étiquetées en rouge qui dévalent les marches, caméra qui suit
 (zoom d'ouverture puis plan large), flou de mouvement, secousses, glitchs, texte monospace
 tapé à la machine, carte de fin TikTok + recherche @teamlouise82. Bande-son synthétisée.
 
-Histoire : TOI monte avec LES LIKES, L'ARGENT FACILE et LES POTES. LA FAMILLE suit dans
-l'ombre. ÉCHEC fait tomber LES LIKES, L'ARGENT FACILE s'évapore face à PAS D'ARGENT,
-LES POTES font demi-tour. DOUTE met TOI à genoux. LA FAMILLE le rejoint, lui tend la main,
-le relève, et ils montent ensemble. « LES LIKES TOMBENT. LA FAMILLE RESTE. »
+Histoire : MOTIVATION part en flèche, EGO frime, DISCIPLINE avance à pas réguliers dans
+l'ombre. MOTIVATION s'essouffle, s'arrête et s'évapore face à FATIGUE. EGO vire au rouge,
+se met à courir et ÉCHEC l'envoie dans le vide. DOUTE met DISCIPLINE à genoux : il se
+relève seul et continue. « LA MOTIVATION S'ÉVAPORE. L'EGO TOMBE. LA DISCIPLINE CONTINUE. »
 
 Usage :
     python3 generer_histoire.py                 # vidéo complète (+ son)
@@ -33,14 +34,14 @@ FPS = 30
 DUREE = 23.5
 SS = 2
 ICI = os.path.dirname(os.path.abspath(__file__))
-SORTIE = os.path.join(ICI, "QUI_RESTE_AVEC_TOI.mp4")
+SORTIE = os.path.join(ICI, "QUI_TIENT_JUSQU_AU_BOUT.mp4")
 MONO = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf"
 INTER_XB = "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf"
 INTER_SB = "/usr/share/fonts/opentype/inter/Inter-SemiBold.otf"
 PSEUDO = "@teamlouise82"
 
-TITRE = ["QUI RESTE AVEC TOI", "JUSQU'EN HAUT ?"]
-REPONSE = ["LES LIKES TOMBENT.", "LA FAMILLE RESTE."]
+TITRE = ["QUI TIENT", "JUSQU'AU BOUT ?"]
+REPONSE = ["LA MOTIVATION S'ÉVAPORE.", "L'EGO TOMBE.", "LA DISCIPLINE CONTINUE."]
 
 # escalier (unités monde ; y vers le bas comme l'écran)
 SW, SH = 30.0, 19.0
@@ -235,120 +236,56 @@ def pose_genou(xk, t, regard=0.0, main=None):
 
 
 # ================================================================= scénario
-V = 120.0                                    # vitesse de montée (unités/s)
-T_HIT_LIKES, T_EVAP, T_POTES, T_DOUTE = 5.0, 6.3, 7.6, 10.0
-X_TOI_GENOU = 1110.0
-V_FAM = 140.0
-X_FAM_STOP = 1260.0
-T_FAM_STOP = (X_FAM_STOP + 420) / V_FAM      # ≈ 12,56 s
-T_REGARD, T_TIRE, T_DEBOUT, T_REPART = 12.8, 13.3, 14.2, 14.6
-V2 = 115.0
+V = 120.0                                    # pas régulier de DISCIPLINE (unités/s)
+V_MOT, V_EGO, V_EGO_RUN = 145.0, 138.0, 195.0
+T_MOT_FREINE, D_FREIN = 4.4, 1.2             # MOTIVATION s'essouffle puis s'arrête
+T_EVAP = 6.3                                 # MOTIVATION s'évapore (boule FATIGUE)
+T_EGO_SPRINT, T_EGO = 5.5, 7.6               # EGO se met à courir, puis ÉCHEC le fait tomber
+T_DOUTE = 10.0                               # DOUTE met DISCIPLINE à genoux
+X_GENOU = -300 + V * T_DOUTE - 90
+T_REGARD, T_TIRE, T_DEBOUT, T_REPART = 11.8, 12.4, 13.3, 13.6
+V2 = V
+T_POTES = T_EGO_SPRINT                       # (repère sonore : whoosh du sprint d'EGO)
 
 
-def x_toi(t):
+def x_mot(t):
+    x0 = 170 + V_MOT * min(t, T_MOT_FREINE)
+    if t <= T_MOT_FREINE:
+        return x0
+    u = min(t - T_MOT_FREINE, D_FREIN)
+    return x0 + V_MOT * u - V_MOT * u * u / (2 * D_FREIN)
+
+
+def x_ego(t):
+    if t < T_EGO_SPRINT:
+        return 330 + V_EGO * t
+    return 330 + V_EGO * T_EGO_SPRINT + V_EGO_RUN * (t - T_EGO_SPRINT)
+
+
+def x_disc(t):
     if t < T_DOUTE:
-        return V * t
+        return -300 + V * t
     if t < T_REPART:
-        return X_TOI_GENOU
-    return X_TOI_GENOU + V2 * (t - T_REPART)
+        return X_GENOU
+    return X_GENOU + V2 * (t - T_REPART)
 
 
-def x_fam(t):
-    if t < T_FAM_STOP:
-        return -420 + V_FAM * t
-    if t < T_REPART:
-        return X_FAM_STOP
-    return X_FAM_STOP + V2 * (t - T_REPART)
+x_toi = x_disc
 
 
-def main_famille(t):
-    """Position de la main tendue de LA FAMILLE (sert aussi de prise pour TOI)."""
-    pench = 0.0
-    tend = 0.0
-    if t >= T_REGARD:
-        pench = keyframes([(T_REGARD, 0.0, "io"), (T_TIRE, 0.75, "io"), (T_DEBOUT, 0.1, "io")], t)
-        tend = smooth(T_REGARD, T_TIRE, t)
-    xf = X_FAM_STOP
-    hip = v(xf, yl(xf) - 100 + 8 * pench)
-    N = hip + rotv(v(0, -111), -(0.08 + 0.45 * pench))
-    repos = N + v(-10, 100)
-    tendue = N + rotv(v(0, 100), 0.95 + 0.35 * (pench - 0.4))
-    return lerp(repos, tendue, tend), pench
-
-
-def etat_toi(t):
-    info = {"nom": "TOI", "col": BLANC, "alpha": 1.0, "flou": 0.0, "lab": BLANC}
-    rouge = smooth(T_DOUTE, T_DOUTE + 0.2, t) * (1 - smooth(T_TIRE, T_REPART, t))
-    info["col"] = BLANC + (SAUMON - BLANC) * rouge
-    info["lab"] = BLANC + (ROUGE_TXT - BLANC) * rouge
-    if t < T_DOUTE:
-        return pose_marche(x_toi(t)), info
-    if t < T_DOUTE + 0.75:                                   # renversé, recule de 3 marches
-        u = (t - T_DOUTE) / 0.75
-        P0 = pose_marche(V * T_DOUTE)
-        x = lerp(V * T_DOUTE, X_TOI_GENOU, EASES["out"](u))
-        Pc = decaler(P0, v(x - V * T_DOUTE, yl(x) - yl(V * T_DOUTE) - 45 * math.sin(math.pi * u)))
-        Pc = pivoter(Pc, Pc["hip"], -1.3 * math.sin(math.pi * min(u * 1.2, 1)))
-        return mix(Pc, pose_genou(X_TOI_GENOU, t), smooth(0.45, 1.0, u)), info
-    if t < T_REGARD:
-        return pose_genou(X_TOI_GENOU, t), info
-    mf, _ = main_famille(t)
-    if t < T_TIRE:
-        u = smooth(T_REGARD, T_TIRE, t)
-        Pg = pose_genou(X_TOI_GENOU, t, regard=u)
-        repos = Pg["nH"]
-        return pose_genou(X_TOI_GENOU, t, regard=u, main=lerp(repos, mf, smooth(T_REGARD + 0.2, T_TIRE, t))), info
-    if t < T_DEBOUT:
-        u = EASES["io"]((t - T_TIRE) / (T_DEBOUT - T_TIRE))
-        Pg = pose_genou(X_TOI_GENOU, t, regard=1, main=mf)
-        Pd = pose_debout(X_TOI_GENOU, 1, 0, main=mf)
-        return mix(Pg, Pd, u), info
-    if t < T_REPART:
-        u = smooth(T_DEBOUT, T_REPART, t)
-        return mix(pose_debout(X_TOI_GENOU, 1, 0, main=lerp(mf, mf + v(-30, 60), u)),
-                   pose_marche(x_toi(t)), u), info
-    return pose_marche(x_toi(t)), info
-
-
-def etat_famille(t):
-    lum = smooth(9.5, 12.0, t)
-    info = {"nom": "LA FAMILLE", "col": GRIS + (BLANC - GRIS) * lum, "alpha": 1.0,
-            "flou": 3.5 * (1 - lum), "lab": GRIS + (BLANC - GRIS) * lum}
-    if t < T_FAM_STOP:
-        return pose_marche(x_fam(t), ph=0.3), info
-    mf, pench = main_famille(t)
-    xf = X_FAM_STOP
-    if t < T_REGARD:                                         # s'arrête et se retourne
-        u = smooth(T_FAM_STOP, T_REGARD, t)
-        P = mix(pose_marche(x_fam(T_FAM_STOP - 1e-3), ph=0.3), pose_debout(xf, 1), smooth(0, 0.4, u))
-        return tourner(P, xf, math.cos(math.pi * u)), info
-    if t < T_DEBOUT:
-        return pose_debout(xf, -1, pench, main=mf), info
-    if t < T_REPART:                                         # se retourne vers le haut
-        u = smooth(T_DEBOUT, T_REPART - 0.1, t)
-        P = pose_debout(xf, -1, pench, main=lerp(mf, mf + v(10, 40), u))
-        P = tourner(P, xf, -math.cos(math.pi * u))
-        return mix(P, pose_marche(x_fam(t), ph=0.8), smooth(T_REPART - 0.15, T_REPART, t)), info
-    return pose_marche(x_fam(t), ph=0.8), info
-
-
-def etat_likes(t):
-    info = {"nom": "LES LIKES", "col": BLANC, "alpha": 1.0, "flou": 0.0, "lab": BLANC}
-    if t < T_HIT_LIKES:
-        return pose_marche(330 + V * t, ph=0.55), info
-    tau = t - T_HIT_LIKES                                    # éjecté : salto arrière hors des marches
-    P0 = pose_marche(330 + V * T_HIT_LIKES, ph=0.55)
-    P = decaler(P0, v(-170 * tau, -330 * tau + 0.5 * 2400 * tau * tau))
-    P = pivoter(P, P["hip"], -7.5 * tau)
-    info["alpha"] = 1 - smooth(0.45, 1.1, tau)
-    info["lab"] = ROUGE_TXT
-    return P, info
-
-
-def etat_argent(t):
-    info = {"nom": "L'ARGENT FACILE", "col": BLANC, "alpha": 1.0, "flou": 0.0, "lab": BLANC, "glitch": 0.0}
-    x = 170 + V * min(t, T_EVAP + 0.5)
-    P = pose_marche(x, ph=0.2)
+def etat_motivation(t):
+    """Part en flèche, s'essouffle, s'arrête plié en deux… et s'évapore."""
+    gris = smooth(T_MOT_FREINE + 0.2, T_MOT_FREINE + D_FREIN + 0.3, t)
+    info = {"nom": "MOTIVATION", "col": BLANC + (GRIS - BLANC) * gris, "alpha": 1.0, "flou": 0.0,
+            "lab": BLANC + (GRIS - BLANC) * gris, "glitch": 0.0}
+    x = x_mot(t)
+    t_stop = T_MOT_FREINE + D_FREIN
+    if t < t_stop - 0.3:
+        P = pose_marche(x, ph=0.2, pench=0.4 * (1 - gris))
+    else:
+        u = smooth(t_stop - 0.3, t_stop + 0.2, t)
+        souffle = 0.55 + 0.08 * math.sin(2 * math.pi * t / 0.7)
+        P = mix(pose_marche(x, ph=0.2), pose_debout(x, 1, souffle), u)
     if t >= T_EVAP:
         u = clamp((t - T_EVAP) / 0.5)
         clign = 1.0 if math.sin(t * 95) > 0 else 0.35
@@ -358,36 +295,73 @@ def etat_argent(t):
     return P, info
 
 
-def etat_potes(t):
-    info = {"nom": "LES POTES", "col": BLANC, "alpha": 1.0, "flou": 0.0, "lab": BLANC}
-    xs = -150 + V * T_POTES
-    g = smooth(T_POTES, T_POTES + 0.8, t)
-    info["col"] = BLANC + (GRIS - BLANC) * g
-    info["lab"] = BLANC + (GRIS - BLANC) * g
-    info["alpha"] = 1 - smooth(9.7, 10.6, t)
-    if t < T_POTES:
-        return pose_marche(-150 + V * t, ph=0.1), info
-    if t < T_POTES + 0.35:
-        u = (t - T_POTES) / 0.35
-        P = mix(pose_marche(xs - 1e-3, ph=0.1), pose_debout(xs, 1), smooth(0, 0.5, u))
-        return tourner(P, xs, math.cos(math.pi * u)), info
-    x = xs - 140 * (t - T_POTES - 0.35)
-    return pose_marche(x, d=-1, ph=0.0, bras=0.7), info
+def etat_ego(t):
+    """Frime, vire au rouge, se met à courir… et ÉCHEC l'envoie dans le vide."""
+    chauffe = smooth(3.5, 5.5, t)
+    info = {"nom": "EGO", "col": BLANC + (SAUMON - BLANC) * chauffe, "alpha": 1.0, "flou": 0.0,
+            "lab": BLANC + (ROUGE_TXT - BLANC) * chauffe}
+    sprint = smooth(T_EGO_SPRINT - 0.2, T_EGO_SPRINT + 0.3, t)
+    if t < T_EGO:
+        return pose_marche(x_ego(t), ph=0.55, bras=1.0 + 0.5 * sprint, pench=0.6 * sprint), info
+    tau = t - T_EGO                                          # éjecté : salto arrière dans le vide
+    P0 = pose_marche(x_ego(T_EGO), ph=0.55, bras=1.5, pench=0.6)
+    P = decaler(P0, v(-170 * tau, -330 * tau + 0.5 * 2400 * tau * tau))
+    P = pivoter(P, P["hip"], -7.5 * tau)
+    info["alpha"] = 1 - smooth(0.45, 1.1, tau)
+    return P, info
 
 
-PERSOS = [etat_likes, etat_argent, etat_potes, etat_famille, etat_toi]
+def etat_discipline(t):
+    """Pas régulier, d'abord dans l'ombre. Mis à genoux par DOUTE, se relève SEUL et repart."""
+    lum = smooth(5.5, 8.5, t)
+    rouge = smooth(T_DOUTE, T_DOUTE + 0.2, t) * (1 - smooth(T_TIRE, T_REPART, t))
+    base = GRIS + (BLANC - GRIS) * lum
+    info = {"nom": "DISCIPLINE", "col": base + (SAUMON - base) * rouge, "alpha": 1.0,
+            "flou": 3.0 * (1 - lum), "lab": base + (ROUGE_TXT - base) * rouge}
+    if t < T_DOUTE:
+        return pose_marche(x_disc(t), ph=0.8), info
+    if t < T_DOUTE + 0.75:                                   # renversé, recule de 3 marches
+        u = (t - T_DOUTE) / 0.75
+        x_hit = x_disc(T_DOUTE - 1e-6)
+        P0 = pose_marche(x_hit, ph=0.8)
+        x = lerp(x_hit, X_GENOU, EASES["out"](u))
+        Pc = decaler(P0, v(x - x_hit, yl(x) - yl(x_hit) - 45 * math.sin(math.pi * u)))
+        Pc = pivoter(Pc, Pc["hip"], -1.3 * math.sin(math.pi * min(u * 1.2, 1)))
+        return mix(Pc, pose_genou(X_GENOU, t), smooth(0.45, 1.0, u)), info
+    if t < T_REGARD:
+        return pose_genou(X_GENOU, t), info
+    if t < T_TIRE:                                           # relève la tête, main sur le genou
+        u = smooth(T_REGARD, T_TIRE, t)
+        Pg = pose_genou(X_GENOU, t, regard=u)
+        return pose_genou(X_GENOU, t, regard=u, main=lerp(Pg["nH"], Pg["nK"] + v(-4, -8), u)), info
+    if t < T_DEBOUT:                                         # pousse sur sa jambe et se relève
+        u = EASES["io"]((t - T_TIRE) / (T_DEBOUT - T_TIRE))
+        Pg = pose_genou(X_GENOU, t, regard=1)
+        Pg = pose_genou(X_GENOU, t, regard=1, main=Pg["nK"] + v(-4, -8))
+        return mix(Pg, pose_debout(X_GENOU, 1, 0.15 * (1 - u)), u), info
+    if t < T_REPART:
+        u = smooth(T_DEBOUT, T_REPART, t)
+        return mix(pose_debout(X_GENOU, 1, 0), pose_marche(x_disc(t), ph=0.8), u), info
+    return pose_marche(x_disc(t), ph=0.8), info
 
-# obstacles : (texte, rayon, t_impact, x_impact, vitesse)
+
+etat_toi = etat_discipline
+PERSOS = [etat_ego, etat_motivation, etat_discipline]
+
+# obstacles : (texte, rayon, t_impact, x_impact, vitesse, mode) ; mode "roule" ou "tombe" (du ciel)
 BOULES = [
-    ("ÉCHEC", 30, T_HIT_LIKES, 330 + V * T_HIT_LIKES + 26, 330),
-    ("PAS D'ARGENT", 30, T_EVAP + 0.35, 170 + V * (T_EVAP + 0.35) + 26, 330),
-    ("DOUTE", 42, T_DOUTE, V * T_DOUTE + 34, 380),
+    ("FATIGUE", 30, T_EVAP + 0.35, x_mot(T_EVAP) + 4, 330, "tombe"),
+    ("ÉCHEC", 34, T_EGO, x_ego(T_EGO) + 28, 360, "roule"),
+    ("DOUTE", 44, T_DOUTE, x_disc(T_DOUTE - 1e-6) + 36, 380, "roule"),
 ]
 IMPACTS = [b[2] for b in BOULES]
 
 
 def etat_boule(b, t):
-    nom, r, th, xh, vb = b
+    nom, r, th, xh, vb, mode = b
+    if t < th and mode == "tombe":
+        d = th - t
+        return xh, yl(xh) - r - 150 - 0.5 * 2600 * d * d, 3 * t, 1.0, 1.0
     if t < th:
         x = xh + vb * (th - t)
         y = yl(x) - r - 6 - 7 * abs(math.sin(math.pi * x / SW))
@@ -400,16 +374,21 @@ def etat_boule(b, t):
 
 # ================================================================= caméra
 def cible_cam(t):
-    if t < 11.0:
-        return x_toi(t) + 70
-    return (x_toi(t) + x_fam(t)) / 2 + 50
+    if t < 2.3:
+        return x_mot(t) + 60
+    vivants = [x_disc(t)]
+    if t < T_EVAP + 0.4:
+        vivants.append(x_mot(t))
+    if t < T_EGO + 0.5:
+        vivants.append(x_ego(t))
+    return (min(vivants) + max(vivants)) / 2 + (70 if len(vivants) == 1 else 0)
 
 
 def camera(t):
-    xs = np.mean([cible_cam(max(t - k * 0.1, 0)) for k in range(6)])
-    z = keyframes([(0, 2.15, "lin"), (2.3, 2.0, "io"), (4.0, 0.92, "io"), (9.6, 0.95, "io"),
-                   (10.05, 1.12, "out"), (10.6, 1.0, "io"), (12.3, 1.05, "io"), (13.3, 1.45, "io"),
-                   (14.6, 1.4, "io"), (17.2, 1.0, "io"), (19.8, 1.06, "io")], t)
+    xs = np.mean([cible_cam(max(t - k * 0.1, 0)) for k in range(10)])
+    z = keyframes([(0, 2.15, "lin"), (2.3, 2.0, "io"), (4.0, 0.9, "io"), (8.0, 0.9, "io"),
+                   (9.2, 1.08, "io"), (10.05, 1.28, "out"), (10.6, 1.18, "io"), (11.8, 1.22, "io"),
+                   (13.3, 1.42, "io"), (14.0, 1.38, "io"), (17.0, 1.0, "io"), (19.8, 1.06, "io")], t)
     return v(xs, yl(xs) - 150), z
 
 
@@ -646,7 +625,7 @@ def couche_perso(etat, t, cam):
 
 
 def couche_boule(b, t, cam):
-    nom, r, th, xh, vb = b
+    nom, r = b[0], b[1]
     x, y, rot_, alpha, ech = etat_boule(b, t)
     p = ecran(v(x, y), cam)
     z = cam[1]
@@ -711,13 +690,13 @@ def dessiner_textes(img, t, labels):
             xx += d.textlength(ch, font=f) + 3 * SS
     ft = police(MONO, 40 * SS)
     lignes = []
-    gris_titre = 1 - 0.45 * smooth(15.6, 16.2, t)
+    gris_titre = 1 - 0.45 * smooth(14.6, 15.2, t)
     for i, txt in enumerate(TITRE):
         prog = (t - 2.6 - i * 0.75) / 0.7
         lignes.append((texte_tape(txt, prog, t), 170 + 58 * i, (gris_titre,) * 3))
     for i, txt in enumerate(REPONSE):
-        prog = (t - 15.9 - i * 0.95) / 0.8
-        col = (1.0, 1.0, 1.0) if i == 0 else (1.0, 0.86, 0.66)
+        prog = (t - 14.8 - i * 1.0) / 0.8
+        col = (0.78, 0.78, 0.8) if i < 2 else (1.0, 0.86, 0.66)
         lignes.append((texte_tape(txt, prog, t), 320 + 62 * i, col))
     for txt, y, col in lignes:
         if not txt:
@@ -995,7 +974,7 @@ def bande_son(chemin):
     pas(0.0, T_DOUTE, V)
     pas(T_REPART, T_FIN, V2, 0.1)
     # roulement des boules + impacts
-    for nom, r, th, xh, vb in BOULES:
+    for nom, r, th, xh, vb, mode in BOULES:
         d0 = th - 1.6
         tt = np.arange(int(1.6 * SR)) / SR
         bump = 0.5 + 0.5 * np.sign(np.sin(2 * np.pi * (vb / SW) * tt))
@@ -1010,7 +989,7 @@ def bande_son(chemin):
     tt = np.arange(int(0.5 * SR)) / SR
     gl = np.sign(np.sin(2 * np.pi * 320 * tt * (1 + 2 * tt))) * (rng.random(len(tt)) > 0.4) * np.exp(-tt * 4)
     ajoute(gl * 0.12, T_EVAP, 0.5, 0.6)
-    # LES POTES se retournent : petit « swish »
+    # EGO se met à courir : « swish »
     tt = np.arange(int(0.35 * SR)) / SR
     sw = np.convolve(rng.standard_normal(len(tt)), np.ones(30) / 30, "same") * np.sin(np.pi * tt / 0.35) ** 2
     ajoute(sw * 0.6, T_POTES, 0.4, 0.35)
@@ -1026,9 +1005,9 @@ def bande_son(chemin):
     sh = sum(np.sin(2 * np.pi * f * tt) for f in (523.25, 659.25, 783.99, 1046.5)) * (tt / 1.6) * np.exp(-(tt - 1.2) ** 2 * 4)
     ajoute(sh * 0.04, T_REGARD, 1.0)
     # frappe des textes
-    for (t0, txts, durees) in ((2.6, TITRE, (0.7, 0.7)), (15.9, REPONSE, (0.8, 0.8))):
+    for (t0, txts, durees) in ((2.6, TITRE, (0.7, 0.7)), (14.8, REPONSE, (0.8, 0.8, 0.8))):
         for i, (txt, du) in enumerate(zip(txts, durees)):
-            dec = 0.75 if t0 < 5 else 0.95
+            dec = 0.75 if t0 < 5 else 1.0
             for c in range(len(txt)):
                 tt = np.arange(int(0.025 * SR)) / SR
                 ajoute(rng.standard_normal(len(tt)) * np.exp(-tt * 300) * 0.22,
@@ -1082,8 +1061,8 @@ def rendre_video():
 
 
 def apercu(chemin):
-    temps = [0.8, 3.0, 4.6, 5.25, 6.5, 8.2, 9.9, 10.3,
-             11.5, 12.7, 13.2, 13.8, 15.5, 17.8, 20.0, 23.0]
+    temps = [0.8, 3.0, 4.6, 5.9, 6.5, 7.3, 7.75, 9.9,
+             10.3, 11.5, 12.3, 12.9, 14.2, 17.8, 20.0, 23.0]
     vw, vh = W // 4, H // 4
     planche = Image.new("RGB", (vw * 4, vh * 4), (40, 40, 40))
     d = ImageDraw.Draw(planche)
